@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The bsdiff 6 library: Common + Matching + Alignment + Format + top-level API (DESIGN §8).
+       Assembly BsDiff6.Core, not BsDiff6: on a case-insensitive file system BsDiff6.dll and the
+       bsdiff6.dll CLI would be the same file in every output folder. -->
+  <PropertyGroup>
+    <RootNamespace>BsDiff6</RootNamespace>
+    <AssemblyName>BsDiff6.Core</AssemblyName>
+    <Version>0.1.0</Version>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SharpZipLib" Version="1.4.2" />
+  </ItemGroup>
+
+</Project>

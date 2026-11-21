@@ -1,0 +1,1398 @@
+{
+ "other-lua-src-tar-5.4.6-5.4.7": {
+  "extra": {
+   "raw": 13960,
+   "zlib": 13498,
+   "bzip2": 14015,
+   "lzma": 13302,
+   "lzma_lp2": 13372,
+   "lzma_pb0": 13283,
+   "brotli": 13101,
+   "zstd": 13432,
+   "lzma_x86": 13302,
+   "lzma_arm64": 13382,
+   "zstd_pf": 13085,
+   "brotli_dict": 13048,
+   "lzma_dict": 13142
+  },
+  "diff": {
+   "raw": 1523576,
+   "zlib": 3589,
+   "bzip2": 1641,
+   "lzma": 2355,
+   "lzma_lp2": 2441,
+   "lzma_pb0": 2328,
+   "brotli": 2371,
+   "zstd": 2040
+  },
+  "ctrl": {
+   "raw": 19608,
+   "zlib": 4772,
+   "bzip2": 4408,
+   "lzma": 3956,
+   "lzma_lp2": 3833,
+   "lzma_pb0": 4114,
+   "brotli": 4033,
+   "zstd": 4345
+  },
+  "ctrl6": {
+   "raw": 3895,
+   "zlib": 3463,
+   "bzip2": 3951,
+   "lzma": 3362,
+   "lzma_lp2": 3418,
+   "lzma_pb0": 3329,
+   "brotli": 3261,
+   "zstd": 3453
+  },
+  "nz2": {
+   "raw": 1474,
+   "zlib": 774,
+   "bzip2": 846,
+   "lzma": 805,
+   "lzma_lp2": 859,
+   "lzma_pb0": 788,
+   "brotli": 752,
+   "zstd": 751
+  },
+  "new": {
+   "raw": 1537536,
+   "zlib": 377250,
+   "bzip2": 303002,
+   "lzma": 298455,
+   "lzma_lp2": 300012,
+   "lzma_pb0": 297878,
+   "brotli": 295919,
+   "zstd": 304975,
+   "lzma_x86": 298455,
+   "lzma_arm64": 299954,
+   "zstd_pf": 18740,
+   "brotli_dict": 18560,
+   "lzma_dict": 18602
+  }
+ },
+ "other-sqlite3.c-3.45.1-3.45.2": {
+  "extra": {
+   "raw": 279,
+   "zlib": 229,
+   "bzip2": 288,
+   "lzma": 238,
+   "lzma_lp2": 246,
+   "lzma_pb0": 235,
+   "brotli": 220,
+   "zstd": 228,
+   "lzma_x86": 238,
+   "lzma_arm64": 251,
+   "zstd_pf": 209,
+   "brotli_dict": 211,
+   "lzma_dict": 194
+  },
+  "diff": {
+   "raw": 9022361,
+   "zlib": 9014,
+   "bzip2": 269,
+   "lzma": 1554,
+   "lzma_lp2": 1554,
+   "lzma_pb0": 1533,
+   "brotli": 210,
+   "zstd": 516
+  },
+  "ctrl": {
+   "raw": 8712,
+   "zlib": 2269,
+   "bzip2": 2238,
+   "lzma": 1888,
+   "lzma_lp2": 1846,
+   "lzma_pb0": 1951,
+   "brotli": 2111,
+   "zstd": 2014
+  },
+  "ctrl6": {
+   "raw": 1957,
+   "zlib": 1753,
+   "bzip2": 2061,
+   "lzma": 1705,
+   "lzma_lp2": 1742,
+   "lzma_pb0": 1696,
+   "brotli": 1670,
+   "zstd": 1750
+  },
+  "nz2": {
+   "raw": 185,
+   "zlib": 100,
+   "bzip2": 153,
+   "lzma": 105,
+   "lzma_lp2": 105,
+   "lzma_pb0": 102,
+   "brotli": 97,
+   "zstd": 104
+  },
+  "new": {
+   "raw": 9022640,
+   "zlib": 2305869,
+   "bzip2": 1735372,
+   "lzma": 1639061,
+   "lzma_lp2": 1642602,
+   "lzma_pb0": 1636635,
+   "brotli": 1642395,
+   "zstd": 1669140,
+   "lzma_x86": 1639061,
+   "lzma_arm64": 1642602,
+   "zstd_pf": 2633,
+   "brotli_dict": 1876,
+   "lzma_dict": 2971
+  }
+ },
+ "patch-bzip2-1.0.6-1.0.8-macos-x86_64": {
+  "extra": {
+   "raw": 740,
+   "zlib": 514,
+   "bzip2": 642,
+   "lzma": 508,
+   "lzma_lp2": 509,
+   "lzma_pb0": 503,
+   "brotli": 556,
+   "zstd": 519,
+   "lzma_x86": 508,
+   "lzma_arm64": 514,
+   "zstd_pf": 453,
+   "brotli_dict": 450,
+   "lzma_dict": 420
+  },
+  "diff": {
+   "raw": 112332,
+   "zlib": 2694,
+   "bzip2": 2740,
+   "lzma": 2446,
+   "lzma_lp2": 2506,
+   "lzma_pb0": 2405,
+   "brotli": 2478,
+   "zstd": 2472
+  },
+  "ctrl": {
+   "raw": 1632,
+   "zlib": 443,
+   "bzip2": 417,
+   "lzma": 392,
+   "lzma_lp2": 382,
+   "lzma_pb0": 389,
+   "brotli": 437,
+   "zstd": 363
+  },
+  "ctrl6": {
+   "raw": 268,
+   "zlib": 279,
+   "bzip2": 350,
+   "lzma": 274,
+   "lzma_lp2": 270,
+   "lzma_pb0": 264,
+   "brotli": 267,
+   "zstd": 278
+  },
+  "nz2": {
+   "raw": 1886,
+   "zlib": 759,
+   "bzip2": 961,
+   "lzma": 758,
+   "lzma_lp2": 769,
+   "lzma_pb0": 755,
+   "brotli": 774,
+   "zstd": 759
+  },
+  "new": {
+   "raw": 113072,
+   "zlib": 50437,
+   "bzip2": 51794,
+   "lzma": 43194,
+   "lzma_lp2": 43725,
+   "lzma_pb0": 43067,
+   "brotli": 43875,
+   "zstd": 46465,
+   "lzma_x86": 42424,
+   "lzma_arm64": 44166,
+   "zstd_pf": 4035,
+   "brotli_dict": 3818,
+   "lzma_dict": 3779
+  }
+ },
+ "patch-liblua.a-5.4.6-5.4.7-macos-arm64": {
+  "extra": {
+   "raw": 2184,
+   "zlib": 1633,
+   "bzip2": 1858,
+   "lzma": 1588,
+   "lzma_lp2": 1593,
+   "lzma_pb0": 1576,
+   "brotli": 1600,
+   "zstd": 1622,
+   "lzma_x86": 1589,
+   "lzma_arm64": 1610,
+   "zstd_pf": 1411,
+   "brotli_dict": 1423,
+   "lzma_dict": 1318
+  },
+  "diff": {
+   "raw": 398032,
+   "zlib": 13078,
+   "bzip2": 11561,
+   "lzma": 10301,
+   "lzma_lp2": 10287,
+   "lzma_pb0": 10280,
+   "brotli": 10680,
+   "zstd": 11204
+  },
+  "ctrl": {
+   "raw": 7632,
+   "zlib": 1807,
+   "bzip2": 1738,
+   "lzma": 1554,
+   "lzma_lp2": 1509,
+   "lzma_pb0": 1575,
+   "brotli": 1608,
+   "zstd": 1650
+  },
+  "ctrl6": {
+   "raw": 1429,
+   "zlib": 1278,
+   "bzip2": 1565,
+   "lzma": 1261,
+   "lzma_lp2": 1264,
+   "lzma_pb0": 1248,
+   "brotli": 1235,
+   "zstd": 1270
+  },
+  "nz2": {
+   "raw": 10342,
+   "zlib": 6816,
+   "bzip2": 7788,
+   "lzma": 6707,
+   "lzma_lp2": 6776,
+   "lzma_pb0": 6658,
+   "brotli": 6652,
+   "zstd": 6721
+  },
+  "new": {
+   "raw": 400216,
+   "zlib": 152025,
+   "bzip2": 131776,
+   "lzma": 109470,
+   "lzma_lp2": 109083,
+   "lzma_pb0": 112249,
+   "brotli": 110963,
+   "zstd": 126508,
+   "lzma_x86": 109735,
+   "lzma_arm64": 115629,
+   "zstd_pf": 15407,
+   "brotli_dict": 13492,
+   "lzma_dict": 13558
+  }
+ },
+ "patch-libz.a-1.3-1.3.1-macos-x86_64": {
+  "extra": {
+   "raw": 57,
+   "zlib": 65,
+   "bzip2": 115,
+   "lzma": 61,
+   "lzma_lp2": 61,
+   "lzma_pb0": 61,
+   "brotli": 61,
+   "zstd": 66,
+   "lzma_x86": 61,
+   "lzma_arm64": 61,
+   "zstd_pf": 63,
+   "brotli_dict": 63,
+   "lzma_dict": 56
+  },
+  "diff": {
+   "raw": 116479,
+   "zlib": 655,
+   "bzip2": 578,
+   "lzma": 558,
+   "lzma_lp2": 562,
+   "lzma_pb0": 540,
+   "brotli": 511,
+   "zstd": 513
+  },
+  "ctrl": {
+   "raw": 720,
+   "zlib": 207,
+   "bzip2": 246,
+   "lzma": 182,
+   "lzma_lp2": 180,
+   "lzma_pb0": 182,
+   "brotli": 226,
+   "zstd": 192
+  },
+  "ctrl6": {
+   "raw": 127,
+   "zlib": 138,
+   "bzip2": 185,
+   "lzma": 131,
+   "lzma_lp2": 131,
+   "lzma_pb0": 131,
+   "brotli": 131,
+   "zstd": 136
+  },
+  "nz2": {
+   "raw": 482,
+   "zlib": 220,
+   "bzip2": 278,
+   "lzma": 217,
+   "lzma_lp2": 216,
+   "lzma_pb0": 215,
+   "brotli": 234,
+   "zstd": 222
+  },
+  "new": {
+   "raw": 116536,
+   "zlib": 55417,
+   "bzip2": 56651,
+   "lzma": 47661,
+   "lzma_lp2": 47998,
+   "lzma_pb0": 47729,
+   "brotli": 48286,
+   "zstd": 50845,
+   "lzma_x86": 48580,
+   "lzma_arm64": 48208,
+   "zstd_pf": 809,
+   "brotli_dict": 825,
+   "lzma_dict": 808
+  }
+ },
+ "patch-lua-5.4.6-5.4.7-macos-arm64": {
+  "extra": {
+   "raw": 4977,
+   "zlib": 4182,
+   "bzip2": 4731,
+   "lzma": 4070,
+   "lzma_lp2": 4082,
+   "lzma_pb0": 4064,
+   "brotli": 4095,
+   "zstd": 4134,
+   "lzma_x86": 4070,
+   "lzma_arm64": 4087,
+   "zstd_pf": 3768,
+   "brotli_dict": 3818,
+   "lzma_dict": 3709
+  },
+  "diff": {
+   "raw": 293151,
+   "zlib": 14803,
+   "bzip2": 14016,
+   "lzma": 12129,
+   "lzma_lp2": 12075,
+   "lzma_pb0": 11953,
+   "brotli": 12621,
+   "zstd": 13613
+  },
+  "ctrl": {
+   "raw": 6024,
+   "zlib": 1442,
+   "bzip2": 1365,
+   "lzma": 1227,
+   "lzma_lp2": 1219,
+   "lzma_pb0": 1246,
+   "brotli": 1264,
+   "zstd": 1318
+  },
+  "ctrl6": {
+   "raw": 1046,
+   "zlib": 965,
+   "bzip2": 1187,
+   "lzma": 945,
+   "lzma_lp2": 946,
+   "lzma_pb0": 931,
+   "brotli": 937,
+   "zstd": 959
+  },
+  "nz2": {
+   "raw": 10409,
+   "zlib": 6158,
+   "bzip2": 7097,
+   "lzma": 5824,
+   "lzma_lp2": 5850,
+   "lzma_pb0": 5766,
+   "brotli": 5812,
+   "zstd": 5978
+  },
+  "new": {
+   "raw": 298128,
+   "zlib": 118506,
+   "bzip2": 117204,
+   "lzma": 93704,
+   "lzma_lp2": 92943,
+   "lzma_pb0": 96132,
+   "brotli": 97767,
+   "zstd": 106167,
+   "lzma_x86": 93907,
+   "lzma_arm64": 86857,
+   "zstd_pf": 22705,
+   "brotli_dict": 21437,
+   "lzma_dict": 20447
+  }
+ },
+ "patch-lua-5.4.6-5.4.7-macos-x86_64": {
+  "extra": {
+   "raw": 7329,
+   "zlib": 5263,
+   "bzip2": 5621,
+   "lzma": 4904,
+   "lzma_lp2": 4936,
+   "lzma_pb0": 4929,
+   "brotli": 4956,
+   "zstd": 5207,
+   "lzma_x86": 4905,
+   "lzma_arm64": 4996,
+   "zstd_pf": 4662,
+   "brotli_dict": 4420,
+   "lzma_dict": 4226
+  },
+  "diff": {
+   "raw": 259367,
+   "zlib": 14491,
+   "bzip2": 14078,
+   "lzma": 12364,
+   "lzma_lp2": 12402,
+   "lzma_pb0": 12194,
+   "brotli": 13070,
+   "zstd": 13146
+  },
+  "ctrl": {
+   "raw": 10488,
+   "zlib": 2486,
+   "bzip2": 2309,
+   "lzma": 2016,
+   "lzma_lp2": 1998,
+   "lzma_pb0": 2067,
+   "brotli": 2066,
+   "zstd": 2265
+  },
+  "ctrl6": {
+   "raw": 1873,
+   "zlib": 1689,
+   "bzip2": 2048,
+   "lzma": 1661,
+   "lzma_lp2": 1663,
+   "lzma_pb0": 1641,
+   "brotli": 1622,
+   "zstd": 1676
+  },
+  "nz2": {
+   "raw": 12385,
+   "zlib": 5461,
+   "bzip2": 6363,
+   "lzma": 5186,
+   "lzma_lp2": 5242,
+   "lzma_pb0": 5154,
+   "brotli": 5172,
+   "zstd": 5195
+  },
+  "new": {
+   "raw": 266696,
+   "zlib": 124885,
+   "bzip2": 122070,
+   "lzma": 108003,
+   "lzma_lp2": 108924,
+   "lzma_pb0": 107999,
+   "brotli": 109817,
+   "zstd": 114733,
+   "lzma_x86": 100687,
+   "lzma_arm64": 109572,
+   "zstd_pf": 25395,
+   "brotli_dict": 23436,
+   "lzma_dict": 23102
+  }
+ },
+ "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": {
+  "extra": {
+   "raw": 22007,
+   "zlib": 19345,
+   "bzip2": 20173,
+   "lzma": 18329,
+   "lzma_lp2": 18330,
+   "lzma_pb0": 18289,
+   "brotli": 18396,
+   "zstd": 19043,
+   "lzma_x86": 18327,
+   "lzma_arm64": 18368,
+   "zstd_pf": 18288,
+   "brotli_dict": 17646,
+   "lzma_dict": 17490
+  },
+  "diff": {
+   "raw": 1308953,
+   "zlib": 50134,
+   "bzip2": 44631,
+   "lzma": 39603,
+   "lzma_lp2": 39655,
+   "lzma_pb0": 39184,
+   "brotli": 42661,
+   "zstd": 44917
+  },
+  "ctrl": {
+   "raw": 18792,
+   "zlib": 3951,
+   "bzip2": 3547,
+   "lzma": 3315,
+   "lzma_lp2": 3275,
+   "lzma_pb0": 3311,
+   "brotli": 3405,
+   "zstd": 3598
+  },
+  "ctrl6": {
+   "raw": 3052,
+   "zlib": 2696,
+   "bzip2": 3145,
+   "lzma": 2676,
+   "lzma_lp2": 2702,
+   "lzma_pb0": 2655,
+   "brotli": 2667,
+   "zstd": 2686
+  },
+  "nz2": {
+   "raw": 39857,
+   "zlib": 19403,
+   "bzip2": 21340,
+   "lzma": 17780,
+   "lzma_lp2": 17855,
+   "lzma_pb0": 17684,
+   "brotli": 18054,
+   "zstd": 18368
+  },
+  "new": {
+   "raw": 1330960,
+   "zlib": 680858,
+   "bzip2": 621399,
+   "lzma": 513185,
+   "lzma_lp2": 504969,
+   "lzma_pb0": 528439,
+   "brotli": 537748,
+   "zstd": 584371,
+   "lzma_x86": 515346,
+   "lzma_arm64": 477443,
+   "zstd_pf": 87165,
+   "brotli_dict": 81046,
+   "lzma_dict": 76797
+  }
+ },
+ "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": {
+  "extra": {
+   "raw": 1757,
+   "zlib": 1500,
+   "bzip2": 1856,
+   "lzma": 1443,
+   "lzma_lp2": 1440,
+   "lzma_pb0": 1430,
+   "brotli": 1478,
+   "zstd": 1490,
+   "lzma_x86": 1443,
+   "lzma_arm64": 1441,
+   "zstd_pf": 1424,
+   "brotli_dict": 1405,
+   "lzma_dict": 1352
+  },
+  "diff": {
+   "raw": 106355,
+   "zlib": 2228,
+   "bzip2": 2229,
+   "lzma": 1936,
+   "lzma_lp2": 1937,
+   "lzma_pb0": 1946,
+   "brotli": 2080,
+   "zstd": 1980
+  },
+  "ctrl": {
+   "raw": 1440,
+   "zlib": 390,
+   "bzip2": 370,
+   "lzma": 327,
+   "lzma_lp2": 325,
+   "lzma_pb0": 328,
+   "brotli": 373,
+   "zstd": 327
+  },
+  "ctrl6": {
+   "raw": 234,
+   "zlib": 243,
+   "bzip2": 315,
+   "lzma": 240,
+   "lzma_lp2": 237,
+   "lzma_pb0": 229,
+   "brotli": 223,
+   "zstd": 231
+  },
+  "nz2": {
+   "raw": 1463,
+   "zlib": 876,
+   "bzip2": 1070,
+   "lzma": 838,
+   "lzma_lp2": 838,
+   "lzma_pb0": 828,
+   "brotli": 842,
+   "zstd": 850
+  },
+  "new": {
+   "raw": 108112,
+   "zlib": 42871,
+   "bzip2": 45094,
+   "lzma": 34360,
+   "lzma_lp2": 33875,
+   "lzma_pb0": 35073,
+   "brotli": 36396,
+   "zstd": 38877,
+   "lzma_x86": 34517,
+   "lzma_arm64": 33453,
+   "zstd_pf": 4060,
+   "brotli_dict": 3922,
+   "lzma_dict": 3840
+  }
+ },
+ "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": {
+  "extra": {
+   "raw": 1001,
+   "zlib": 716,
+   "bzip2": 823,
+   "lzma": 686,
+   "lzma_lp2": 687,
+   "lzma_pb0": 682,
+   "brotli": 686,
+   "zstd": 703,
+   "lzma_x86": 678,
+   "lzma_arm64": 688,
+   "zstd_pf": 642,
+   "brotli_dict": 665,
+   "lzma_dict": 591
+  },
+  "diff": {
+   "raw": 101927,
+   "zlib": 2214,
+   "bzip2": 2235,
+   "lzma": 1980,
+   "lzma_lp2": 2004,
+   "lzma_pb0": 1969,
+   "brotli": 2040,
+   "zstd": 1988
+  },
+  "ctrl": {
+   "raw": 1560,
+   "zlib": 393,
+   "bzip2": 372,
+   "lzma": 332,
+   "lzma_lp2": 331,
+   "lzma_pb0": 335,
+   "brotli": 377,
+   "zstd": 331
+  },
+  "ctrl6": {
+   "raw": 235,
+   "zlib": 246,
+   "bzip2": 315,
+   "lzma": 241,
+   "lzma_lp2": 236,
+   "lzma_pb0": 235,
+   "brotli": 224,
+   "zstd": 232
+  },
+  "nz2": {
+   "raw": 1350,
+   "zlib": 831,
+   "bzip2": 998,
+   "lzma": 828,
+   "lzma_lp2": 826,
+   "lzma_pb0": 820,
+   "brotli": 801,
+   "zstd": 805
+  },
+  "new": {
+   "raw": 102928,
+   "zlib": 52436,
+   "bzip2": 55427,
+   "lzma": 46318,
+   "lzma_lp2": 46682,
+   "lzma_pb0": 46252,
+   "brotli": 46918,
+   "zstd": 48759,
+   "lzma_x86": 45506,
+   "lzma_arm64": 46958,
+   "zstd_pf": 3209,
+   "brotli_dict": 3034,
+   "lzma_dict": 2926
+  }
+ },
+ "upgrade-bat-0.25.0-0.26.0-macos-arm64": {
+  "extra": {
+   "raw": 1556976,
+   "zlib": 1096572,
+   "bzip2": 1109501,
+   "lzma": 979529,
+   "lzma_lp2": 983633,
+   "lzma_pb0": 979480,
+   "brotli": 980868,
+   "zstd": 1020907,
+   "lzma_x86": 983647,
+   "lzma_arm64": 992901,
+   "zstd_pf": 988765,
+   "brotli_dict": 948860,
+   "lzma_dict": 942866
+  },
+  "diff": {
+   "raw": 4285616,
+   "zlib": 388608,
+   "bzip2": 384618,
+   "lzma": 314443,
+   "lzma_lp2": 315951,
+   "lzma_pb0": 314903,
+   "brotli": 325988,
+   "zstd": 346751
+  },
+  "ctrl": {
+   "raw": 909288,
+   "zlib": 220845,
+   "bzip2": 169479,
+   "lzma": 164037,
+   "lzma_lp2": 157645,
+   "lzma_pb0": 169455,
+   "brotli": 172576,
+   "zstd": 194314
+  },
+  "ctrl6": {
+   "raw": 183049,
+   "zlib": 157901,
+   "bzip2": 160741,
+   "lzma": 150937,
+   "lzma_lp2": 151655,
+   "lzma_pb0": 150763,
+   "brotli": 147394,
+   "zstd": 155732
+  },
+  "nz2": {
+   "raw": 347157,
+   "zlib": 220236,
+   "bzip2": 256068,
+   "lzma": 203492,
+   "lzma_lp2": 204757,
+   "lzma_pb0": 202998,
+   "brotli": 205197,
+   "zstd": 212019
+  },
+  "new": {
+   "raw": 5842592,
+   "zlib": 3161020,
+   "bzip2": 3046096,
+   "lzma": 2462070,
+   "lzma_lp2": 2439265,
+   "lzma_pb0": 2501912,
+   "brotli": 2521554,
+   "zstd": 2695424,
+   "lzma_x86": 2474328,
+   "lzma_arm64": 2348894,
+   "zstd_pf": 1435313,
+   "brotli_dict": 1335435,
+   "lzma_dict": 1283257
+  }
+ },
+ "upgrade-fd-10.2.0-10.3.0-linux-arm64": {
+  "extra": {
+   "raw": 1250526,
+   "zlib": 767023,
+   "bzip2": 759083,
+   "lzma": 637103,
+   "lzma_lp2": 640744,
+   "lzma_pb0": 637456,
+   "brotli": 645567,
+   "zstd": 681680,
+   "lzma_x86": 639821,
+   "lzma_arm64": 650054,
+   "zstd_pf": 662382,
+   "brotli_dict": 627200,
+   "lzma_dict": 614690
+  },
+  "diff": {
+   "raw": 2347314,
+   "zlib": 283164,
+   "bzip2": 284922,
+   "lzma": 231376,
+   "lzma_lp2": 232216,
+   "lzma_pb0": 230895,
+   "brotli": 239861,
+   "zstd": 250742
+  },
+  "ctrl": {
+   "raw": 860760,
+   "zlib": 202016,
+   "bzip2": 154516,
+   "lzma": 148980,
+   "lzma_lp2": 143649,
+   "lzma_pb0": 153405,
+   "brotli": 156298,
+   "zstd": 173543
+  },
+  "ctrl6": {
+   "raw": 171709,
+   "zlib": 144735,
+   "bzip2": 147148,
+   "lzma": 137924,
+   "lzma_lp2": 138663,
+   "lzma_pb0": 137738,
+   "brotli": 134046,
+   "zstd": 142310
+  },
+  "nz2": {
+   "raw": 253259,
+   "zlib": 167238,
+   "bzip2": 193688,
+   "lzma": 152544,
+   "lzma_lp2": 153724,
+   "lzma_pb0": 152019,
+   "brotli": 152622,
+   "zstd": 162237
+  },
+  "new": {
+   "raw": 3597840,
+   "zlib": 1528371,
+   "bzip2": 1476719,
+   "lzma": 1058048,
+   "lzma_lp2": 1041774,
+   "lzma_pb0": 1092280,
+   "brotli": 1130438,
+   "zstd": 1237822,
+   "lzma_x86": 1070613,
+   "lzma_arm64": 964625,
+   "zstd_pf": 978784,
+   "brotli_dict": 889980,
+   "lzma_dict": 835494
+  }
+ },
+ "upgrade-fzf-0.56.0-0.56.1-linux-arm64": {
+  "extra": {
+   "raw": 5653,
+   "zlib": 3903,
+   "bzip2": 4419,
+   "lzma": 3633,
+   "lzma_lp2": 3669,
+   "lzma_pb0": 3609,
+   "brotli": 3687,
+   "zstd": 3832,
+   "lzma_x86": 3635,
+   "lzma_arm64": 3742,
+   "zstd_pf": 3394,
+   "brotli_dict": 3340,
+   "lzma_dict": 3204
+  },
+  "diff": {
+   "raw": 3729899,
+   "zlib": 81928,
+   "bzip2": 61069,
+   "lzma": 56258,
+   "lzma_lp2": 56102,
+   "lzma_pb0": 56020,
+   "brotli": 61574,
+   "zstd": 66642
+  },
+  "ctrl": {
+   "raw": 9840,
+   "zlib": 2506,
+   "bzip2": 2389,
+   "lzma": 2062,
+   "lzma_lp2": 2031,
+   "lzma_pb0": 2122,
+   "brotli": 2090,
+   "zstd": 2282
+  },
+  "ctrl6": {
+   "raw": 1837,
+   "zlib": 1693,
+   "bzip2": 2064,
+   "lzma": 1662,
+   "lzma_lp2": 1664,
+   "lzma_pb0": 1644,
+   "brotli": 1644,
+   "zstd": 1688
+  },
+  "nz2": {
+   "raw": 98787,
+   "zlib": 30273,
+   "bzip2": 30427,
+   "lzma": 27209,
+   "lzma_lp2": 27480,
+   "lzma_pb0": 26869,
+   "brotli": 26742,
+   "zstd": 27859
+  },
+  "new": {
+   "raw": 3735552,
+   "zlib": 1413118,
+   "bzip2": 1339607,
+   "lzma": 1042330,
+   "lzma_lp2": 1036167,
+   "lzma_pb0": 1066821,
+   "brotli": 1096973,
+   "zstd": 1188963,
+   "lzma_x86": 1045216,
+   "lzma_arm64": 977243,
+   "zstd_pf": 128828,
+   "brotli_dict": 116799,
+   "lzma_dict": 104601
+  }
+ },
+ "upgrade-jq-1.7-1.7.1-linux-arm64": {
+  "extra": {
+   "raw": 3421,
+   "zlib": 2440,
+   "bzip2": 2759,
+   "lzma": 2385,
+   "lzma_lp2": 2382,
+   "lzma_pb0": 2372,
+   "brotli": 2414,
+   "zstd": 2409,
+   "lzma_x86": 2385,
+   "lzma_arm64": 2395,
+   "zstd_pf": 2075,
+   "brotli_dict": 2026,
+   "lzma_dict": 1965
+  },
+  "diff": {
+   "raw": 1706195,
+   "zlib": 36359,
+   "bzip2": 30522,
+   "lzma": 26592,
+   "lzma_lp2": 26682,
+   "lzma_pb0": 26323,
+   "brotli": 29397,
+   "zstd": 30983
+  },
+  "ctrl": {
+   "raw": 5064,
+   "zlib": 1363,
+   "bzip2": 1362,
+   "lzma": 1160,
+   "lzma_lp2": 1119,
+   "lzma_pb0": 1176,
+   "brotli": 1221,
+   "zstd": 1255
+  },
+  "ctrl6": {
+   "raw": 967,
+   "zlib": 915,
+   "bzip2": 1102,
+   "lzma": 893,
+   "lzma_lp2": 892,
+   "lzma_pb0": 883,
+   "brotli": 878,
+   "zstd": 908
+  },
+  "nz2": {
+   "raw": 41073,
+   "zlib": 9097,
+   "bzip2": 9963,
+   "lzma": 8269,
+   "lzma_lp2": 8280,
+   "lzma_pb0": 8194,
+   "brotli": 8408,
+   "zstd": 8252
+  },
+  "new": {
+   "raw": 1709616,
+   "zlib": 783368,
+   "bzip2": 767969,
+   "lzma": 584960,
+   "lzma_lp2": 576957,
+   "lzma_pb0": 602880,
+   "brotli": 619727,
+   "zstd": 673984,
+   "lzma_x86": 586311,
+   "lzma_arm64": 554571,
+   "zstd_pf": 65440,
+   "brotli_dict": 58393,
+   "lzma_dict": 53375
+  }
+ },
+ "upgrade-jq-1.7-1.7.1-windows-amd64": {
+  "extra": {
+   "raw": 21375,
+   "zlib": 12619,
+   "bzip2": 14593,
+   "lzma": 9582,
+   "lzma_lp2": 9489,
+   "lzma_pb0": 9892,
+   "brotli": 9675,
+   "zstd": 11466,
+   "lzma_x86": 9602,
+   "lzma_arm64": 9689,
+   "zstd_pf": 11091,
+   "brotli_dict": 8993,
+   "lzma_dict": 8601
+  },
+  "diff": {
+   "raw": 963713,
+   "zlib": 26410,
+   "bzip2": 23901,
+   "lzma": 21134,
+   "lzma_lp2": 21215,
+   "lzma_pb0": 20791,
+   "brotli": 21944,
+   "zstd": 22782
+  },
+  "ctrl": {
+   "raw": 11616,
+   "zlib": 2940,
+   "bzip2": 2733,
+   "lzma": 2393,
+   "lzma_lp2": 2318,
+   "lzma_pb0": 2501,
+   "brotli": 2571,
+   "zstd": 2546
+  },
+  "ctrl6": {
+   "raw": 2186,
+   "zlib": 1989,
+   "bzip2": 2351,
+   "lzma": 1950,
+   "lzma_lp2": 1963,
+   "lzma_pb0": 1940,
+   "brotli": 1927,
+   "zstd": 1976
+  },
+  "nz2": {
+   "raw": 26452,
+   "zlib": 7322,
+   "bzip2": 8242,
+   "lzma": 6701,
+   "lzma_lp2": 6712,
+   "lzma_pb0": 6605,
+   "brotli": 6809,
+   "zstd": 6827
+  },
+  "new": {
+   "raw": 985088,
+   "zlib": 396084,
+   "bzip2": 387016,
+   "lzma": 311702,
+   "lzma_lp2": 313632,
+   "lzma_pb0": 312941,
+   "brotli": 321604,
+   "zstd": 338977,
+   "lzma_x86": 292950,
+   "lzma_arm64": 315728,
+   "zstd_pf": 49878,
+   "brotli_dict": 45709,
+   "lzma_dict": 46023
+  }
+ },
+ "upgrade-jq-1.7.1-1.8.0-macos-arm64": {
+  "extra": {
+   "raw": 104159,
+   "zlib": 59894,
+   "bzip2": 63536,
+   "lzma": 53346,
+   "lzma_lp2": 53573,
+   "lzma_pb0": 53238,
+   "brotli": 53872,
+   "zstd": 56203,
+   "lzma_x86": 53376,
+   "lzma_arm64": 54146,
+   "zstd_pf": 53266,
+   "brotli_dict": 50678,
+   "lzma_dict": 49393
+  },
+  "diff": {
+   "raw": 737217,
+   "zlib": 64871,
+   "bzip2": 64067,
+   "lzma": 53747,
+   "lzma_lp2": 53180,
+   "lzma_pb0": 53539,
+   "brotli": 55505,
+   "zstd": 57356
+  },
+  "ctrl": {
+   "raw": 89448,
+   "zlib": 18640,
+   "bzip2": 15330,
+   "lzma": 14256,
+   "lzma_lp2": 14010,
+   "lzma_pb0": 14621,
+   "brotli": 15216,
+   "zstd": 16534
+  },
+  "ctrl6": {
+   "raw": 15394,
+   "zlib": 12700,
+   "bzip2": 13801,
+   "lzma": 12311,
+   "lzma_lp2": 12417,
+   "lzma_pb0": 12280,
+   "brotli": 12282,
+   "zstd": 12651
+  },
+  "nz2": {
+   "raw": 61258,
+   "zlib": 37671,
+   "bzip2": 42804,
+   "lzma": 34955,
+   "lzma_lp2": 35148,
+   "lzma_pb0": 34794,
+   "brotli": 35209,
+   "zstd": 36272
+  },
+  "new": {
+   "raw": 841376,
+   "zlib": 297806,
+   "bzip2": 302585,
+   "lzma": 212515,
+   "lzma_lp2": 209854,
+   "lzma_pb0": 218323,
+   "brotli": 226943,
+   "zstd": 245469,
+   "lzma_x86": 213608,
+   "lzma_arm64": 194001,
+   "zstd_pf": 122288,
+   "brotli_dict": 111892,
+   "lzma_dict": 105919
+  }
+ },
+ "upgrade-lazygit-0.43.1-0.44.0-linux-amd64": {
+  "ctrl6": {
+   "raw": 75702,
+   "zlib": 63507,
+   "bzip2": 66335,
+   "lzma": 60502,
+   "lzma_pb0": 60335,
+   "brotli": 59793,
+   "zstd": 62916
+  },
+  "ctrl": {
+   "raw": 360600,
+   "zlib": 85889,
+   "bzip2": 71726,
+   "lzma": 66674,
+   "lzma_pb0": 68495,
+   "brotli": 70569,
+   "zstd": 78029
+  },
+  "nz2": {
+   "raw": 1299983,
+   "zlib": 437195,
+   "bzip2": 470519,
+   "lzma": 392766,
+   "lzma_pb0": 389689,
+   "brotli": 394201,
+   "zstd": 410389
+  },
+  "extra": {
+   "raw": 253388,
+   "zlib": 138932,
+   "bzip2": 163312,
+   "lzma": 110348,
+   "lzma_pb0": 111796,
+   "brotli": 108491,
+   "zstd": 124237,
+   "zstd_pf": 120577,
+   "brotli_dict": 105617,
+   "lzma_dict": 105538
+  },
+  "diff": {
+   "raw": 18600652,
+   "zlib": 931838,
+   "bzip2": 803326,
+   "lzma": 687374,
+   "lzma_pb0": 686478,
+   "brotli": 737946,
+   "zstd": 780570
+  },
+  "new": {
+   "raw": 18854040,
+   "zlib": 6699286,
+   "bzip2": 6211644,
+   "lzma": 5029456,
+   "lzma_pb0": 5078158,
+   "zstd": 5504164,
+   "zstd_pf": 1654251,
+   "zstd_pf_level": 19,
+   "lzma_dict": 1370604
+  }
+ },
+ "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": {
+  "ctrl6": {
+   "raw": 347352,
+   "zlib": 275076,
+   "bzip2": 287312,
+   "lzma": 261438,
+   "lzma_pb0": 261174,
+   "brotli": 253561,
+   "zstd": 270941
+  },
+  "nz2": {
+   "raw": 629109,
+   "zlib": 434747,
+   "bzip2": 517438,
+   "lzma": 368865,
+   "lzma_pb0": 367549,
+   "brotli": 381526,
+   "zstd": 412961
+  },
+  "ctrl": {
+   "raw": 1683576,
+   "zlib": 379398,
+   "bzip2": 300882,
+   "lzma": 279953,
+   "lzma_pb0": 289075,
+   "brotli": 298607,
+   "zstd": 329384
+  },
+  "extra": {
+   "raw": 1255593,
+   "zlib": 645687,
+   "bzip2": 689177,
+   "lzma": 553450,
+   "lzma_pb0": 553835,
+   "brotli": 561430,
+   "zstd": 594963,
+   "zstd_pf": 578320,
+   "brotli_dict": 544033,
+   "lzma_dict": 534296
+  },
+  "diff": {
+   "raw": 5334407,
+   "zlib": 664118,
+   "bzip2": 703291,
+   "lzma": 503956,
+   "lzma_pb0": 510845,
+   "brotli": 533981,
+   "zstd": 577959
+  },
+  "new": {
+   "raw": 6590000,
+   "zlib": 2413132,
+   "bzip2": 2341634,
+   "lzma": 1763823,
+   "lzma_pb0": 1767652,
+   "zstd": 1938504,
+   "zstd_pf": 1191740,
+   "brotli_dict": 1110436,
+   "lzma_dict": 1074212
+  }
+ },
+ "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": {
+  "nz2": {
+   "raw": 215819,
+   "zlib": 137005,
+   "bzip2": 156822,
+   "lzma": 125895,
+   "lzma_pb0": 125591,
+   "brotli": 127940,
+   "zstd": 134231
+  },
+  "ctrl6": {
+   "raw": 441705,
+   "zlib": 324875,
+   "bzip2": 337443,
+   "lzma": 303887,
+   "lzma_pb0": 303622,
+   "brotli": 289053,
+   "zstd": 314539
+  },
+  "ctrl": {
+   "raw": 2069736,
+   "zlib": 449203,
+   "bzip2": 345088,
+   "lzma": 317399,
+   "lzma_pb0": 326327,
+   "brotli": 334411,
+   "zstd": 370645
+  },
+  "diff": {
+   "raw": 2768336,
+   "zlib": 243013,
+   "bzip2": 238799,
+   "lzma": 199009,
+   "lzma_pb0": 198377,
+   "brotli": 206811,
+   "zstd": 212760
+  },
+  "extra": {
+   "raw": 2564144,
+   "zlib": 1210116,
+   "bzip2": 1226635,
+   "lzma": 960293,
+   "lzma_pb0": 960982,
+   "brotli": 974054,
+   "zstd": 1030256,
+   "zstd_pf": 1016312,
+   "brotli_dict": 962052,
+   "lzma_dict": 946324
+  },
+  "new": {
+   "raw": 5332480,
+   "zlib": 1966901,
+   "bzip2": 1908239,
+   "lzma": 1423730,
+   "lzma_pb0": 1433202,
+   "zstd": 1562591,
+   "zstd_pf": 1313469,
+   "brotli_dict": 1232165,
+   "lzma_dict": 1202372
+  }
+ },
+ "upgrade-lazygit-0.40.2-0.44.0-macos-arm64": {
+  "ctrl6": {
+   "raw": 999837,
+   "zlib": 809106,
+   "bzip2": 828402,
+   "lzma": 765757,
+   "lzma_pb0": 764889,
+   "brotli": 745039,
+   "zstd": 799060
+  },
+  "nz2": {
+   "raw": 1922119,
+   "zlib": 1380507,
+   "bzip2": 1559698,
+   "lzma": 1282447,
+   "lzma_pb0": 1279486,
+   "brotli": 1290540,
+   "zstd": 1342823
+  },
+  "ctrl": {
+   "raw": 4684968,
+   "zlib": 1074332,
+   "bzip2": 841165,
+   "lzma": 794098,
+   "lzma_pb0": 820295,
+   "brotli": 852303,
+   "zstd": 936098
+  },
+  "extra": {
+   "raw": 5436816,
+   "zlib": 2625161,
+   "bzip2": 2755444,
+   "lzma": 2128972,
+   "lzma_pb0": 2131523,
+   "brotli": 2165660,
+   "zstd": 2332574,
+   "zstd_pf": 2293213,
+   "brotli_dict": 2127099,
+   "lzma_dict": 2085132
+  },
+  "diff": {
+   "raw": 13357426,
+   "zlib": 2043850,
+   "bzip2": 1997900,
+   "lzma": 1664601,
+   "lzma_pb0": 1665990,
+   "brotli": 1709120,
+   "zstd": 1800752
+  },
+  "new": {
+   "raw": 18794242,
+   "zlib": 6452258,
+   "bzip2": 6038673,
+   "lzma": 4566953,
+   "lzma_pb0": 4673889,
+   "zstd": 5221380,
+   "zstd_pf": 4417499,
+   "zstd_pf_level": 19,
+   "lzma_dict": 3662148
+  }
+ }
+}

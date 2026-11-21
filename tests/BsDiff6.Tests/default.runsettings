@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Default test run: everything except the long fuzz runs. Run those with
+     dotnet test with filter "Category=LongFuzz" (a command-line filter replaces this one). -->
+<RunSettings>
+  <RunConfiguration>
+    <TestCaseFilter>Category!=LongFuzz</TestCaseFilter>
+  </RunConfiguration>
+</RunSettings>

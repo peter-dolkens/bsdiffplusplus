@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The single test project: Matching/, Alignment/, Format/ unit tests plus EndToEnd/.
+       Long fuzz runs carry the trait Category=LongFuzz and are excluded by default.runsettings;
+       run them with dotnet test and the filter "Category=LongFuzz". -->
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+    <RootNamespace>BsDiff6.Tests</RootNamespace>
+    <AssemblyName>BsDiff6.Tests</AssemblyName>
+    <RunSettingsFilePath>$(MSBuildThisFileDirectory)default.runsettings</RunSettingsFilePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../src/BsDiff6/BsDiff6.csproj" />
+    <ProjectReference Include="../../src/cli/bsdiff6/bsdiff6.csproj" />
+    <ProjectReference Include="../../src/cli/bspatch6/bspatch6.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+</Project>

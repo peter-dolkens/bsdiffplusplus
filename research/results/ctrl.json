@@ -1,0 +1,400 @@
+{
+ "b43": {
+  "other-lua-src-tar-5.4.6-5.4.7": {
+   "ctrl_bytes": 2976,
+   "segments": 1096,
+   "ok": true
+  },
+  "other-sqlite3.c-3.45.1-3.45.2": {
+   "ctrl_bytes": 1450,
+   "segments": 419,
+   "ok": true
+  },
+  "patch-bzip2-1.0.6-1.0.8-macos-x86_64": {
+   "ctrl_bytes": 242,
+   "segments": 104,
+   "ok": true
+  },
+  "patch-liblua.a-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 1146,
+   "segments": 435,
+   "ok": true
+  },
+  "patch-libz.a-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 108,
+   "segments": 36,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 869,
+   "segments": 387,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-x86_64": {
+   "ctrl_bytes": 1495,
+   "segments": 685,
+   "ok": true
+  },
+  "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": {
+   "ctrl_bytes": 2365,
+   "segments": 1364,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": {
+   "ctrl_bytes": 198,
+   "segments": 87,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 205,
+   "segments": 88,
+   "ok": true
+  },
+  "upgrade-bat-0.25.0-0.26.0-macos-arm64": {
+   "ctrl_bytes": 144166,
+   "segments": 63069,
+   "ok": true
+  },
+  "upgrade-fd-10.2.0-10.3.0-linux-arm64": {
+   "ctrl_bytes": 134710,
+   "segments": 60011,
+   "ok": true
+  },
+  "upgrade-fzf-0.56.0-0.56.1-linux-arm64": {
+   "ctrl_bytes": 1508,
+   "segments": 602,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-linux-arm64": {
+   "ctrl_bytes": 806,
+   "segments": 313,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-windows-amd64": {
+   "ctrl_bytes": 1759,
+   "segments": 730,
+   "ok": true
+  },
+  "upgrade-jq-1.7.1-1.8.0-macos-arm64": {
+   "ctrl_bytes": 11683,
+   "segments": 5939,
+   "ok": true
+  },
+  "upgrade-lazygit-0.40.2-0.44.0-macos-arm64": {
+   "ctrl_bytes": 738345,
+   "segments": 308529,
+   "ok": true
+  },
+  "upgrade-lazygit-0.43.1-0.44.0-linux-amd64": {
+   "ctrl_bytes": 55895,
+   "segments": 21771,
+   "ok": true
+  },
+  "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": {
+   "ctrl_bytes": 336880,
+   "segments": 149038,
+   "ok": true
+  },
+  "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": {
+   "ctrl_bytes": 263431,
+   "segments": 117289,
+   "ok": true
+  }
+ },
+ "dp": {
+  "other-lua-src-tar-5.4.6-5.4.7": {
+   "ctrl_bytes": 1396,
+   "segments": 458,
+   "ok": true
+  },
+  "other-sqlite3.c-3.45.1-3.45.2": {
+   "ctrl_bytes": 722,
+   "segments": 198,
+   "ok": true
+  },
+  "patch-bzip2-1.0.6-1.0.8-macos-x86_64": {
+   "ctrl_bytes": 170,
+   "segments": 56,
+   "ok": true
+  },
+  "patch-liblua.a-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 794,
+   "segments": 283,
+   "ok": true
+  },
+  "patch-libz.a-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 82,
+   "segments": 25,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 612,
+   "segments": 234,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-x86_64": {
+   "ctrl_bytes": 775,
+   "segments": 307,
+   "ok": true
+  },
+  "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": {
+   "ctrl_bytes": 1465,
+   "segments": 683,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": {
+   "ctrl_bytes": 171,
+   "segments": 57,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 157,
+   "segments": 52,
+   "ok": true
+  },
+  "upgrade-bat-0.25.0-0.26.0-macos-arm64": {
+   "ctrl_bytes": 55693,
+   "segments": 20413,
+   "ok": true
+  },
+  "upgrade-fd-10.2.0-10.3.0-linux-arm64": {
+   "ctrl_bytes": 45628,
+   "segments": 16538,
+   "ok": true
+  },
+  "upgrade-fzf-0.56.0-0.56.1-linux-arm64": {
+   "ctrl_bytes": 956,
+   "segments": 323,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-linux-arm64": {
+   "ctrl_bytes": 521,
+   "segments": 163,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-windows-amd64": {
+   "ctrl_bytes": 898,
+   "segments": 309,
+   "ok": true
+  },
+  "upgrade-jq-1.7.1-1.8.0-macos-arm64": {
+   "ctrl_bytes": 5868,
+   "segments": 2388,
+   "ok": true
+  },
+  "upgrade-lazygit-0.40.2-0.44.0-macos-arm64": {
+   "ctrl_bytes": 269610,
+   "segments": 96075,
+   "ok": true
+  },
+  "upgrade-lazygit-0.43.1-0.44.0-linux-amd64": {
+   "ctrl_bytes": 27629,
+   "segments": 9386,
+   "ok": true
+  },
+  "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": {
+   "ctrl_bytes": 63845,
+   "segments": 22205,
+   "ok": true
+  },
+  "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": {
+   "ctrl_bytes": 81155,
+   "segments": 29230,
+   "ok": true
+  }
+ },
+ "dpb": {
+  "other-lua-src-tar-5.4.6-5.4.7": {
+   "ctrl_bytes": 1374,
+   "segments": 454,
+   "ok": true
+  },
+  "other-sqlite3.c-3.45.1-3.45.2": {
+   "ctrl_bytes": 722,
+   "segments": 198,
+   "ok": true
+  },
+  "patch-bzip2-1.0.6-1.0.8-macos-x86_64": {
+   "ctrl_bytes": 170,
+   "segments": 56,
+   "ok": true
+  },
+  "patch-liblua.a-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 781,
+   "segments": 280,
+   "ok": true
+  },
+  "patch-libz.a-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 76,
+   "segments": 24,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 613,
+   "segments": 234,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-x86_64": {
+   "ctrl_bytes": 768,
+   "segments": 303,
+   "ok": true
+  },
+  "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": {
+   "ctrl_bytes": 1440,
+   "segments": 676,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": {
+   "ctrl_bytes": 170,
+   "segments": 57,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 157,
+   "segments": 52,
+   "ok": true
+  },
+  "upgrade-bat-0.25.0-0.26.0-macos-arm64": {
+   "ctrl_bytes": 55690,
+   "segments": 20411,
+   "ok": true
+  },
+  "upgrade-fd-10.2.0-10.3.0-linux-arm64": {
+   "ctrl_bytes": 45638,
+   "segments": 16542,
+   "ok": true
+  },
+  "upgrade-fzf-0.56.0-0.56.1-linux-arm64": {
+   "ctrl_bytes": 948,
+   "segments": 321,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-linux-arm64": {
+   "ctrl_bytes": 504,
+   "segments": 159,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-windows-amd64": {
+   "ctrl_bytes": 892,
+   "segments": 307,
+   "ok": true
+  },
+  "upgrade-jq-1.7.1-1.8.0-macos-arm64": {
+   "ctrl_bytes": 5825,
+   "segments": 2378,
+   "ok": true
+  },
+  "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": {
+   "ctrl_bytes": 63830,
+   "segments": 22201,
+   "ok": true
+  },
+  "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": {
+   "ctrl_bytes": 81143,
+   "segments": 29227,
+   "ok": true
+  }
+ },
+ "greedy": {
+  "other-lua-src-tar-5.4.6-5.4.7": {
+   "ctrl_bytes": 2066,
+   "segments": 791,
+   "ok": true
+  },
+  "other-sqlite3.c-3.45.1-3.45.2": {
+   "ctrl_bytes": 1021,
+   "segments": 360,
+   "ok": true
+  },
+  "patch-bzip2-1.0.6-1.0.8-macos-x86_64": {
+   "ctrl_bytes": 182,
+   "segments": 77,
+   "ok": true
+  },
+  "patch-liblua.a-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 1041,
+   "segments": 412,
+   "ok": true
+  },
+  "patch-libz.a-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 54,
+   "segments": 20,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-arm64": {
+   "ctrl_bytes": 740,
+   "segments": 347,
+   "ok": true
+  },
+  "patch-lua-5.4.6-5.4.7-macos-x86_64": {
+   "ctrl_bytes": 788,
+   "segments": 376,
+   "ok": true
+  },
+  "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": {
+   "ctrl_bytes": 1708,
+   "segments": 954,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": {
+   "ctrl_bytes": 172,
+   "segments": 80,
+   "ok": true
+  },
+  "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": {
+   "ctrl_bytes": 145,
+   "segments": 70,
+   "ok": true
+  },
+  "upgrade-bat-0.25.0-0.26.0-macos-arm64": {
+   "ctrl_bytes": 72795,
+   "segments": 34193,
+   "ok": true
+  },
+  "upgrade-fd-10.2.0-10.3.0-linux-arm64": {
+   "ctrl_bytes": 60609,
+   "segments": 30895,
+   "ok": true
+  },
+  "upgrade-fzf-0.56.0-0.56.1-linux-arm64": {
+   "ctrl_bytes": 1186,
+   "segments": 644,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-linux-arm64": {
+   "ctrl_bytes": 528,
+   "segments": 210,
+   "ok": true
+  },
+  "upgrade-jq-1.7-1.7.1-windows-amd64": {
+   "ctrl_bytes": 900,
+   "segments": 376,
+   "ok": true
+  },
+  "upgrade-jq-1.7.1-1.8.0-macos-arm64": {
+   "ctrl_bytes": 6667,
+   "segments": 3636,
+   "ok": true
+  },
+  "upgrade-lazygit-0.40.2-0.44.0-macos-arm64": {
+   "ctrl_bytes": 398397,
+   "segments": 209721,
+   "ok": true
+  },
+  "upgrade-lazygit-0.43.1-0.44.0-linux-amd64": {
+   "ctrl_bytes": 40824,
+   "segments": 20103,
+   "ok": true
+  },
+  "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": {
+   "ctrl_bytes": 104411,
+   "segments": 59332,
+   "ok": true
+  },
+  "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": {
+   "ctrl_bytes": 97459,
+   "segments": 47897,
+   "ok": true
+  }
+ }
+}

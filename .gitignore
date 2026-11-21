@@ -1,0 +1,23 @@
+bin/
+obj/
+bench/downloads/
+bench/results/tmp/
+bench/results/matrix.*/
+research/work/
+research/downloads/
+*.user
+
+# Local tool state
+.claude/
+.DS_Store
+
+# Third-party material that is not redistributed with this repository.
+# The thesis is copyright Colin Percival: fetch it with the commands in ref/thesis/README.md.
+ref/thesis/thesis.pdf
+ref/thesis/thesis.txt
+# The benchmark corpus is ~150 MB of other projects' release binaries; bench/fetch_corpus.sh rebuilds it.
+bench/corpus/*
+!bench/corpus/MANIFEST.md
+# Built baseline binaries (bench/baseline/build.sh rebuilds them).
+bench/baseline/bsdiff43
+bench/baseline/bspatch43

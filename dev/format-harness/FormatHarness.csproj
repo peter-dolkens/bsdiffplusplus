@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Dev-only experiment harness for the Format area (difference-map model study).
+       Uses library internals (InternalsVisibleTo in src/BsDiff6/AssemblyInfo.cs). -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>BsDiff6.FormatHarness</RootNamespace>
+    <AssemblyName>BsDiff6.FormatHarness</AssemblyName>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../src/BsDiff6/BsDiff6.csproj" />
+  </ItemGroup>
+
+</Project>

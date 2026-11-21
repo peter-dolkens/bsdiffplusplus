@@ -1,0 +1,3052 @@
+{
+ "other-lua-src-tar-5.4.6-5.4.7": [
+  {
+   "name": "(whole file)",
+   "off": 0,
+   "size": 1537536,
+   "extra": 13960,
+   "differ": 1473,
+   "explained": 0,
+   "cm_matched": 901.1952396942434,
+   "cm_extra": 13183.570868609939
+  }
+ ],
+ "other-sqlite3.c-3.45.1-3.45.2": [
+  {
+   "name": "(whole file)",
+   "off": 0,
+   "size": 9022640,
+   "extra": 279,
+   "differ": 185,
+   "explained": 0,
+   "cm_matched": 161.41663011974606,
+   "cm_extra": 184.63625977467746
+  }
+ ],
+ "patch-bzip2-1.0.6-1.0.8-macos-x86_64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1536,
+   "extra": 0,
+   "differ": 28,
+   "explained": 10,
+   "cm_matched": 43.85464001170976,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1536,
+   "size": 83758,
+   "extra": 643,
+   "differ": 1870,
+   "explained": 1232,
+   "cm_matched": 880.5408304320931,
+   "cm_extra": 408.6413912354037
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 85294,
+   "size": 264,
+   "extra": 0,
+   "differ": 14,
+   "explained": 13,
+   "cm_matched": 9.364633697320414,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 85558,
+   "size": 10,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.7517435228219256e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 85568,
+   "size": 1360,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.6342913869993936,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 86928,
+   "size": 8946,
+   "extra": 97,
+   "differ": 9,
+   "explained": 0,
+   "cm_matched": 20.429717772959066,
+   "cm_extra": 32.62371793668717
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 95874,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503487045643851e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 95876,
+   "size": 288,
+   "extra": 0,
+   "differ": 19,
+   "explained": 6,
+   "cm_matched": 8.31275935678218,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 96164,
+   "size": 2140,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.005888730895549088,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 98304,
+   "size": 392,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.002867534514507497,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 98696,
+   "size": 3704,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.010192457587436365,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 102400,
+   "size": 3136,
+   "extra": 0,
+   "differ": 8,
+   "explained": 8,
+   "cm_matched": 7.109538724615504,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 105536,
+   "size": 960,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.003976300562499091,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 106496,
+   "size": 6576,
+   "extra": 0,
+   "differ": 43,
+   "explained": 35,
+   "cm_matched": 28.27734617182523,
+   "cm_extra": 0.0
+  }
+ ],
+ "patch-liblua.a-5.4.6-5.4.7-macos-arm64": [
+  {
+   "name": "(whole file)",
+   "off": 0,
+   "size": 400216,
+   "extra": 2184,
+   "differ": 10591,
+   "explained": 1425,
+   "cm_matched": 7214.131375897003,
+   "cm_extra": 1306.0750897425623
+  }
+ ],
+ "patch-libz.a-1.3-1.3.1-macos-x86_64": [
+  {
+   "name": "(whole file)",
+   "off": 0,
+   "size": 116536,
+   "extra": 57,
+   "differ": 452,
+   "explained": 219,
+   "cm_matched": 317.9883108874776,
+   "cm_extra": 49.03381590079516
+  }
+ ],
+ "patch-lua-5.4.6-5.4.7-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1512,
+   "extra": 0,
+   "differ": 42,
+   "explained": 15,
+   "cm_matched": 65.52727815488925,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1512,
+   "size": 203728,
+   "extra": 2296,
+   "differ": 6255,
+   "explained": 5648,
+   "cm_matched": 1280.5807544778513,
+   "cm_extra": 1382.4632503373432
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 205240,
+   "size": 1032,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.1466800127877832,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 206272,
+   "size": 2119,
+   "extra": 0,
+   "differ": 2,
+   "explained": 0,
+   "cm_matched": 3.774160456208847,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 208391,
+   "size": 9251,
+   "extra": 41,
+   "differ": 2,
+   "explained": 0,
+   "cm_matched": 2.5287634570215687,
+   "cm_extra": 42.292293548583984
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 217642,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.302222194179194e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 217644,
+   "size": 2024,
+   "extra": 0,
+   "differ": 1126,
+   "explained": 26,
+   "cm_matched": 816.8672655199293,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 219668,
+   "size": 9708,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.3691435281129998,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 229376,
+   "size": 4368,
+   "extra": 0,
+   "differ": 627,
+   "explained": 574,
+   "cm_matched": 121.99749154235633,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 233744,
+   "size": 728,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.5025681774814075,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 234472,
+   "size": 11288,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.03112222333174941,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 245760,
+   "size": 8,
+   "extra": 0,
+   "differ": 1,
+   "explained": 1,
+   "cm_matched": 0.26254326397429395,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 245768,
+   "size": 16376,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.045646869732991036,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 262144,
+   "size": 35984,
+   "extra": 2640,
+   "differ": 3218,
+   "explained": 635,
+   "cm_matched": 1810.8972317751195,
+   "cm_extra": 2405.452483944413
+  }
+ ],
+ "patch-lua-5.4.6-5.4.7-macos-x86_64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1536,
+   "extra": 0,
+   "differ": 52,
+   "explained": 26,
+   "cm_matched": 65.10975171619384,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1536,
+   "size": 206157,
+   "extra": 5701,
+   "differ": 8155,
+   "explained": 7294,
+   "cm_matched": 1847.1410211175235,
+   "cm_extra": 3443.430200274659
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 207693,
+   "size": 1,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0016280916752293706,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 207694,
+   "size": 516,
+   "extra": 0,
+   "differ": 172,
+   "explained": 172,
+   "cm_matched": 10.285300005229374,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 208210,
+   "size": 14,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.852440772789123e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 208224,
+   "size": 1688,
+   "extra": 0,
+   "differ": 2,
+   "explained": 0,
+   "cm_matched": 5.175300513988304,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 209912,
+   "size": 9171,
+   "extra": 41,
+   "differ": 2,
+   "explained": 0,
+   "cm_matched": 0.6983485306170678,
+   "cm_extra": 44.354732394218445
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 219083,
+   "size": 1,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.75174329544825e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 219084,
+   "size": 1976,
+   "extra": 1345,
+   "differ": 179,
+   "explained": 15,
+   "cm_matched": 95.63628808095314,
+   "cm_extra": 768.1606782390736
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 221060,
+   "size": 124,
+   "extra": 0,
+   "differ": 14,
+   "explained": 0,
+   "cm_matched": 18.970953753655294,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 221184,
+   "size": 4152,
+   "extra": 0,
+   "differ": 1025,
+   "explained": 425,
+   "cm_matched": 547.7067393645273,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 225336,
+   "size": 728,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.36680327138719804,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 226064,
+   "size": 3312,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.009122029276113608,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 229376,
+   "size": 8,
+   "extra": 0,
+   "differ": 2,
+   "explained": 2,
+   "cm_matched": 0.48757573070452054,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 229384,
+   "size": 4088,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.011764442122512264,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 233472,
+   "size": 33224,
+   "extra": 242,
+   "differ": 3140,
+   "explained": 704,
+   "cm_matched": 1524.0148448116329,
+   "cm_extra": 198.6218479424715
+  }
+ ],
+ "patch-sqlite-shell-3.45.1-3.45.2-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1672,
+   "extra": 0,
+   "differ": 56,
+   "explained": 28,
+   "cm_matched": 69.50371612671847,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1672,
+   "size": 1084028,
+   "extra": 9119,
+   "differ": 32191,
+   "explained": 27314,
+   "cm_matched": 4869.1269475141,
+   "cm_extra": 5290.542007317075
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 1085700,
+   "size": 1224,
+   "extra": 0,
+   "differ": 19,
+   "explained": 19,
+   "cm_matched": 0.18808852326037595,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1086924,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 6.87987521814648e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 1086928,
+   "size": 26992,
+   "extra": 0,
+   "differ": 253,
+   "explained": 0,
+   "cm_matched": 200.31631697592275,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 1113920,
+   "size": 62906,
+   "extra": 38,
+   "differ": 67,
+   "explained": 0,
+   "cm_matched": 84.54545634581063,
+   "cm_extra": 36.87548625469208
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1176826,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503487045643851e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 1176828,
+   "size": 5384,
+   "extra": 2499,
+   "differ": 1171,
+   "explained": 115,
+   "cm_matched": 394.27402798409094,
+   "cm_extra": 1492.9630853031413
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1182212,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0006062829852453433,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__eh_frame",
+   "off": 1182216,
+   "size": 264,
+   "extra": 0,
+   "differ": 8,
+   "explained": 8,
+   "cm_matched": 13.587190476172509,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1182480,
+   "size": 13552,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.03742371412772627,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 1196032,
+   "size": 11416,
+   "extra": 0,
+   "differ": 2042,
+   "explained": 2042,
+   "cm_matched": 72.40361946887879,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 1207448,
+   "size": 864,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.2986440545018922,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1208312,
+   "size": 4104,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.011293155417661183,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 1212416,
+   "size": 14536,
+   "extra": 0,
+   "differ": 1143,
+   "explained": 1143,
+   "cm_matched": 22.226813720440077,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1226952,
+   "size": 1848,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0050852220301749185,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 1228800,
+   "size": 102160,
+   "extra": 10351,
+   "differ": 5075,
+   "explained": 1547,
+   "cm_matched": 2674.3481252262336,
+   "cm_extra": 10358.995001986623
+  }
+ ],
+ "patch-zlib-minigzip-1.3-1.3.1-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1512,
+   "extra": 0,
+   "differ": 53,
+   "explained": 14,
+   "cm_matched": 74.6570411229659,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1512,
+   "size": 61080,
+   "extra": 591,
+   "differ": 640,
+   "explained": 578,
+   "cm_matched": 291.6642055487191,
+   "cm_extra": 358.0123884821078
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 62592,
+   "size": 348,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.446933228549824,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 62940,
+   "size": 1082,
+   "extra": 27,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.197320055336604,
+   "cm_extra": 26.148437544703484
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 64022,
+   "size": 2,
+   "extra": 1,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503528882400133e-06,
+   "cm_extra": 0.3099248707294464
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 64024,
+   "size": 8760,
+   "extra": 4,
+   "differ": 4,
+   "explained": 0,
+   "cm_matched": 11.532981380371893,
+   "cm_extra": 0.7168405121192336
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 72784,
+   "size": 456,
+   "extra": 221,
+   "differ": 29,
+   "explained": 7,
+   "cm_matched": 30.531399759354827,
+   "cm_extra": 148.28961560921744
+  },
+  {
+   "name": "__TEXT,__eh_frame",
+   "off": 73240,
+   "size": 80,
+   "extra": 0,
+   "differ": 1,
+   "explained": 1,
+   "cm_matched": 2.913177456262929,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 73320,
+   "size": 8600,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.12796417914432823,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 81920,
+   "size": 336,
+   "extra": 0,
+   "differ": 29,
+   "explained": 29,
+   "cm_matched": 9.285594879484961,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 82256,
+   "size": 272,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.7003316116706628,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 82528,
+   "size": 15776,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0922041415296917,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 98304,
+   "size": 9808,
+   "extra": 913,
+   "differ": 711,
+   "explained": 64,
+   "cm_matched": 627.5773931788287,
+   "cm_extra": 806.4788663542131
+  }
+ ],
+ "patch-zlib-minigzip-1.3-1.3.1-macos-x86_64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1456,
+   "extra": 0,
+   "differ": 45,
+   "explained": 5,
+   "cm_matched": 67.65911754749618,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 1456,
+   "size": 66704,
+   "extra": 859,
+   "differ": 547,
+   "explained": 455,
+   "cm_matched": 464.49697218658093,
+   "cm_extra": 508.1082912478596
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 68160,
+   "size": 180,
+   "extra": 48,
+   "differ": 4,
+   "explained": 0,
+   "cm_matched": 6.001575675574713,
+   "cm_extra": 19.76287218183279
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 68340,
+   "size": 1082,
+   "extra": 29,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.61951330120246,
+   "cm_extra": 28.796094745397568
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 69422,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503487045643851e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 69424,
+   "size": 16856,
+   "extra": 4,
+   "differ": 4,
+   "explained": 0,
+   "cm_matched": 12.17885660512843,
+   "cm_extra": 0.48404897563159466
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 86280,
+   "size": 448,
+   "extra": 0,
+   "differ": 143,
+   "explained": 0,
+   "cm_matched": 136.0292742898764,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 86728,
+   "size": 3384,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.3094970116935656,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 90112,
+   "size": 336,
+   "extra": 0,
+   "differ": 15,
+   "explained": 15,
+   "cm_matched": 8.02620016551873,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 90448,
+   "size": 272,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.1824042917053248,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 90720,
+   "size": 3488,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.11022169338366439,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 94208,
+   "size": 8720,
+   "extra": 61,
+   "differ": 652,
+   "explained": 53,
+   "cm_matched": 525.9235693325988,
+   "cm_extra": 43.152738604694605
+  }
+ ],
+ "upgrade-bat-0.25.0-0.26.0-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 18488,
+   "extra": 2171,
+   "differ": 944,
+   "explained": 86,
+   "cm_matched": 531.1821214045165,
+   "cm_extra": 6.408852509248391
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 18488,
+   "size": 3056300,
+   "extra": 1001639,
+   "differ": 219266,
+   "explained": 93758,
+   "cm_matched": 121329.02063254738,
+   "cm_extra": 487438.603873928
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 3074788,
+   "size": 2400,
+   "extra": 2,
+   "differ": 445,
+   "explained": 0,
+   "cm_matched": 35.53333510707307,
+   "cm_extra": 2.4210524559020996
+  },
+  {
+   "name": "__TEXT,__stub_helper",
+   "off": 3077188,
+   "size": 2424,
+   "extra": 264,
+   "differ": 210,
+   "explained": 6,
+   "cm_matched": 188.23349089706608,
+   "cm_extra": 128.71919036842883
+  },
+  {
+   "name": "__TEXT,__gcc_except_tab",
+   "off": 3079612,
+   "size": 86468,
+   "extra": 61467,
+   "differ": 3088,
+   "explained": 0,
+   "cm_matched": 2936.0061005336756,
+   "cm_extra": 39872.472382847336
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 3166080,
+   "size": 1968560,
+   "extra": 377945,
+   "differ": 31396,
+   "explained": 74,
+   "cm_matched": 23395.488598753116,
+   "cm_extra": 350198.78238887934
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 5134640,
+   "size": 60996,
+   "extra": 4796,
+   "differ": 2920,
+   "explained": 0,
+   "cm_matched": 158.27583118900657,
+   "cm_extra": 1427.7123998046154
+  },
+  {
+   "name": "__TEXT,__ustring",
+   "off": 5195636,
+   "size": 28,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0007570902816951275,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 5195664,
+   "size": 45048,
+   "extra": 44946,
+   "differ": 9,
+   "explained": 0,
+   "cm_matched": 15.760631689277943,
+   "cm_extra": 23341.81136322685
+  },
+  {
+   "name": "__TEXT,__eh_frame",
+   "off": 5240712,
+   "size": 247880,
+   "extra": 3782,
+   "differ": 25821,
+   "explained": 4175,
+   "cm_matched": 18886.319581429765,
+   "cm_extra": 2345.477501768386
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 5488592,
+   "size": 48,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00017886440036818385,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 5488640,
+   "size": 56,
+   "extra": 0,
+   "differ": 3,
+   "explained": 3,
+   "cm_matched": 1.9904672137927264,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 5488696,
+   "size": 215720,
+   "extra": 5,
+   "differ": 62622,
+   "explained": 6305,
+   "cm_matched": 30186.460651073867,
+   "cm_extra": 3.738717384636402
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 5704416,
+   "size": 13600,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.1311661625513807,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__la_symbol_ptr",
+   "off": 5718016,
+   "size": 1600,
+   "extra": 1594,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 6.604904774576426e-05,
+   "cm_extra": 408.42624514491763
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 5719616,
+   "size": 45752,
+   "extra": 8,
+   "differ": 1036,
+   "explained": 354,
+   "cm_matched": 577.1729418563191,
+   "cm_extra": 5.882793632452376
+  },
+  {
+   "name": "__DATA,__thread_vars",
+   "off": 5765368,
+   "size": 312,
+   "extra": 0,
+   "differ": 20,
+   "explained": 0,
+   "cm_matched": 26.066290317481617,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__thread_data",
+   "off": 5765680,
+   "size": 32,
+   "extra": 0,
+   "differ": 1,
+   "explained": 0,
+   "cm_matched": 1.8055591746233404,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 5765712,
+   "size": 1456,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.2538060779043008,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 5767168,
+   "size": 75424,
+   "extra": 58357,
+   "differ": 1886,
+   "explained": 0,
+   "cm_matched": 1624.0478101567714,
+   "cm_extra": 54901.14957822207
+  }
+ ],
+ "upgrade-fd-10.2.0-10.3.0-linux-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 624,
+   "extra": 0,
+   "differ": 73,
+   "explained": 31,
+   "cm_matched": 55.26561274785013,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".interp",
+   "off": 624,
+   "size": 27,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.07101938264258933,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 651,
+   "size": 1,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.7517435228219256e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.ABI-tag",
+   "off": 652,
+   "size": 32,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0063606700841774,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.gnu.build-id",
+   "off": 684,
+   "size": 36,
+   "extra": 0,
+   "differ": 20,
+   "explained": 0,
+   "cm_matched": 28.458808324093297,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".gnu.hash",
+   "off": 720,
+   "size": 148,
+   "extra": 0,
+   "differ": 12,
+   "explained": 0,
+   "cm_matched": 9.44840777864647,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 868,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00045458613203663845,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".dynsym",
+   "off": 872,
+   "size": 4272,
+   "extra": 0,
+   "differ": 326,
+   "explained": 33,
+   "cm_matched": 284.3826364221568,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".dynstr",
+   "off": 5144,
+   "size": 2440,
+   "extra": 34,
+   "differ": 3,
+   "explained": 0,
+   "cm_matched": 12.481782149046012,
+   "cm_extra": 21.21116992086172
+  },
+  {
+   "name": ".gnu.version",
+   "off": 7584,
+   "size": 356,
+   "extra": 0,
+   "differ": 11,
+   "explained": 0,
+   "cm_matched": 19.54183983848361,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 7940,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00038839328226458747,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".gnu.version_r",
+   "off": 7944,
+   "size": 208,
+   "extra": 0,
+   "differ": 12,
+   "explained": 0,
+   "cm_matched": 9.180888004290864,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rela.dyn",
+   "off": 8152,
+   "size": 282504,
+   "extra": 0,
+   "differ": 68455,
+   "explained": 4843,
+   "cm_matched": 24743.553288650655,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rela.plt",
+   "off": 290656,
+   "size": 3672,
+   "extra": 0,
+   "differ": 615,
+   "explained": 0,
+   "cm_matched": 53.8877199226481,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init",
+   "off": 294328,
+   "size": 20,
+   "extra": 0,
+   "differ": 2,
+   "explained": 2,
+   "cm_matched": 3.9625491136612254,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 294348,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0001624152973818127,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".plt",
+   "off": 294352,
+   "size": 2480,
+   "extra": 0,
+   "differ": 479,
+   "explained": 0,
+   "cm_matched": 33.6273490873391,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 296832,
+   "size": 2308408,
+   "extra": 1100613,
+   "differ": 145946,
+   "explained": 45094,
+   "cm_matched": 89387.83081309008,
+   "cm_extra": 549006.5518503418
+  },
+  {
+   "name": ".fini",
+   "off": 2605240,
+   "size": 16,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004095356911420822,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 2605256,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.0269409762695432e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rodata",
+   "off": 2605264,
+   "size": 431216,
+   "extra": 38802,
+   "differ": 7823,
+   "explained": 8,
+   "cm_matched": 4670.594619722324,
+   "cm_extra": 27008.560931140324
+  },
+  {
+   "name": ".eh_frame_hdr",
+   "off": 3036480,
+   "size": 27356,
+   "extra": 27354,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004698712844401598,
+   "cm_extra": 12945.720133206225
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 3063836,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.09929002297576517,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".eh_frame",
+   "off": 3063840,
+   "size": 214148,
+   "extra": 19161,
+   "differ": 20636,
+   "explained": 439,
+   "cm_matched": 17765.05104756773,
+   "cm_extra": 10190.091541786445
+  },
+  {
+   "name": ".gcc_except_table",
+   "off": 3277988,
+   "size": 80856,
+   "extra": 64538,
+   "differ": 2153,
+   "explained": 4,
+   "cm_matched": 1842.40609759395,
+   "cm_extra": 39816.94664549397
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 3358844,
+   "size": 3476,
+   "extra": 0,
+   "differ": 31,
+   "explained": 0,
+   "cm_matched": 11.364051239390392,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".tdata",
+   "off": 3362320,
+   "size": 2728,
+   "extra": 0,
+   "differ": 1,
+   "explained": 0,
+   "cm_matched": 3.6429872524749953,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init_array",
+   "off": 3365048,
+   "size": 40,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00011006966815330088,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".fini_array",
+   "off": 3365088,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.2013933630660176e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".jcr",
+   "off": 3365096,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.2013933630660176e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data.rel.ro",
+   "off": 3365104,
+   "size": 224352,
+   "extra": 0,
+   "differ": 7985,
+   "explained": 448,
+   "cm_matched": 6658.748413692752,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".dynamic",
+   "off": 3589456,
+   "size": 560,
+   "extra": 0,
+   "differ": 35,
+   "explained": 12,
+   "cm_matched": 36.472171403001994,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".got",
+   "off": 3590016,
+   "size": 2176,
+   "extra": 0,
+   "differ": 762,
+   "explained": 405,
+   "cm_matched": 348.96911653425195,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data",
+   "off": 3592192,
+   "size": 3080,
+   "extra": 0,
+   "differ": 40,
+   "explained": 0,
+   "cm_matched": 22.04510597535409,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".comment",
+   "off": 3595272,
+   "size": 180,
+   "extra": 24,
+   "differ": 12,
+   "explained": 0,
+   "cm_matched": 15.311288731143577,
+   "cm_extra": 20.613252848386765
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 3595452,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0001018380862660706,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.gnu.property",
+   "off": 3595456,
+   "size": 32,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.04557447455590591,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".shstrtab",
+   "off": 3595488,
+   "size": 302,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.10755841323407367,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(tail)",
+   "off": 3595790,
+   "size": 2050,
+   "extra": 0,
+   "differ": 165,
+   "explained": 46,
+   "cm_matched": 74.21424046473112,
+   "cm_extra": 0.0
+  }
+ ],
+ "upgrade-fzf-0.56.0-0.56.1-linux-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 3996,
+   "extra": 0,
+   "differ": 41,
+   "explained": 32,
+   "cm_matched": 39.17142698059433,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.go.buildid",
+   "off": 3996,
+   "size": 100,
+   "extra": 0,
+   "differ": 78,
+   "explained": 0,
+   "cm_matched": 107.31836638679488,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 4096,
+   "size": 1532912,
+   "extra": 2496,
+   "differ": 42246,
+   "explained": 40146,
+   "cm_matched": 1770.6300414637171,
+   "cm_extra": 1470.6218809321217
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1537008,
+   "size": 35856,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.09866651167794771,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rodata",
+   "off": 1572864,
+   "size": 592032,
+   "extra": 722,
+   "differ": 23079,
+   "explained": 13254,
+   "cm_matched": 2746.477369290611,
+   "cm_extra": 300.34535853617126
+  },
+  {
+   "name": ".shstrtab",
+   "off": 2164896,
+   "size": 152,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.7535833580477629,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 2165048,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004004452675872017,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".typelink",
+   "off": 2165056,
+   "size": 3708,
+   "extra": 7,
+   "differ": 1066,
+   "explained": 0,
+   "cm_matched": 336.95686579247285,
+   "cm_extra": 4.473139107227325
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 2168764,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004948721252731048,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".itablink",
+   "off": 2168768,
+   "size": 808,
+   "extra": 9,
+   "differ": 205,
+   "explained": 0,
+   "cm_matched": 190.21839565933624,
+   "cm_extra": 5.87993013614323
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 2169576,
+   "size": 24,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.007964315758727025,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".gopclntab",
+   "off": 2169600,
+   "size": 914608,
+   "extra": 1854,
+   "differ": 34216,
+   "explained": 623,
+   "cm_matched": 9274.32283065698,
+   "cm_extra": 1247.1743663763627
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 3084208,
+   "size": 61520,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.1702586423016328,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".go.buildinfo",
+   "off": 3145728,
+   "size": 944,
+   "extra": 0,
+   "differ": 46,
+   "explained": 0,
+   "cm_matched": 13.73684472273817,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 3146672,
+   "size": 16,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 4.402789636515081e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".noptrdata",
+   "off": 3146688,
+   "size": 525312,
+   "extra": 565,
+   "differ": 89,
+   "explained": 52,
+   "cm_matched": 80.23131204513447,
+   "cm_extra": 353.8534778272733
+  },
+  {
+   "name": ".data",
+   "off": 3672000,
+   "size": 34704,
+   "extra": 0,
+   "differ": 1559,
+   "explained": 1549,
+   "cm_matched": 34.913981129177046,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(tail)",
+   "off": 3706704,
+   "size": 28848,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.09332102065854997,
+   "cm_extra": 0.0
+  }
+ ],
+ "upgrade-jq-1.7-1.7.1-linux-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 400,
+   "extra": 0,
+   "differ": 16,
+   "explained": 11,
+   "cm_matched": 17.238888596208426,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.gnu.build-id",
+   "off": 400,
+   "size": 36,
+   "extra": 0,
+   "differ": 20,
+   "explained": 0,
+   "cm_matched": 32.0977335392713,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.ABI-tag",
+   "off": 436,
+   "size": 32,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.2534381292316539,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 468,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.1006973863914027e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rela.plt",
+   "off": 472,
+   "size": 168,
+   "extra": 0,
+   "differ": 21,
+   "explained": 21,
+   "cm_matched": 7.327027469401855,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init",
+   "off": 640,
+   "size": 24,
+   "extra": 0,
+   "differ": 1,
+   "explained": 1,
+   "cm_matched": 0.8771228628465906,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 664,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 4.1277327909483574e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".plt",
+   "off": 672,
+   "size": 112,
+   "extra": 0,
+   "differ": 14,
+   "explained": 14,
+   "cm_matched": 5.456657076071679,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 784,
+   "size": 48,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00018437479411659297,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 832,
+   "size": 987988,
+   "extra": 3255,
+   "differ": 31290,
+   "explained": 22898,
+   "cm_matched": 2821.2244319988695,
+   "cm_extra": 1944.5187430049045
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 988820,
+   "size": 12,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.852453255603905e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__libc_freeres_fn",
+   "off": 988832,
+   "size": 3076,
+   "extra": 0,
+   "differ": 93,
+   "explained": 72,
+   "cm_matched": 13.670011269921815,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".fini",
+   "off": 991908,
+   "size": 20,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 6.053843708286877e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 991928,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.0269428407336818e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rodata",
+   "off": 991936,
+   "size": 529008,
+   "extra": 89,
+   "differ": 481,
+   "explained": 34,
+   "cm_matched": 521.3059453492847,
+   "cm_extra": 62.290947699701064
+  },
+  {
+   "name": ".eh_frame",
+   "off": 1520944,
+   "size": 128556,
+   "extra": 77,
+   "differ": 7098,
+   "explained": 4073,
+   "cm_matched": 419.8039080342983,
+   "cm_extra": 71.76435343921185
+  },
+  {
+   "name": ".gcc_except_table",
+   "off": 1649500,
+   "size": 480,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 6.745467993605871,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 1649980,
+   "size": 3852,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.01059971517406666,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".tdata",
+   "off": 1653832,
+   "size": 40,
+   "extra": 0,
+   "differ": 10,
+   "explained": 8,
+   "cm_matched": 10.751938395726029,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init_array",
+   "off": 1653872,
+   "size": 16,
+   "extra": 0,
+   "differ": 3,
+   "explained": 3,
+   "cm_matched": 3.7024898210306674,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".fini_array",
+   "off": 1653888,
+   "size": 8,
+   "extra": 0,
+   "differ": 2,
+   "explained": 2,
+   "cm_matched": 1.3325905969072664,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data.rel.ro",
+   "off": 1653896,
+   "size": 24056,
+   "extra": 0,
+   "differ": 3233,
+   "explained": 3225,
+   "cm_matched": 55.27937288441444,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".got",
+   "off": 1677952,
+   "size": 1384,
+   "extra": 0,
+   "differ": 240,
+   "explained": 129,
+   "cm_matched": 47.74587821861405,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".got.plt",
+   "off": 1679336,
+   "size": 80,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.000679997543556965,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data",
+   "off": 1679416,
+   "size": 26360,
+   "extra": 0,
+   "differ": 278,
+   "explained": 268,
+   "cm_matched": 15.225934002971826,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__libc_subfreeres",
+   "off": 1705776,
+   "size": 96,
+   "extra": 0,
+   "differ": 25,
+   "explained": 25,
+   "cm_matched": 1.3711654538092262,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__libc_IO_vtables",
+   "off": 1705872,
+   "size": 1680,
+   "extra": 0,
+   "differ": 373,
+   "explained": 373,
+   "cm_matched": 1.143618813917783,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__libc_atexit",
+   "off": 1707552,
+   "size": 8,
+   "extra": 0,
+   "differ": 2,
+   "explained": 2,
+   "cm_matched": 0.003917847468983382,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".comment",
+   "off": 1707560,
+   "size": 43,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.18529381735334027,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".shstrtab",
+   "off": 1707603,
+   "size": 280,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004913343929729308,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(tail)",
+   "off": 1707883,
+   "size": 1733,
+   "extra": 0,
+   "differ": 53,
+   "explained": 32,
+   "cm_matched": 7.862133904037364,
+   "cm_extra": 0.0
+  }
+ ],
+ "upgrade-jq-1.7-1.7.1-windows-amd64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1024,
+   "extra": 0,
+   "differ": 64,
+   "explained": 13,
+   "cm_matched": 83.74293420742038,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 1024,
+   "size": 536576,
+   "extra": 4438,
+   "differ": 19890,
+   "explained": 16524,
+   "cm_matched": 3166.0384853957003,
+   "cm_extra": 2812.683969949838
+  },
+  {
+   "name": ".data",
+   "off": 537600,
+   "size": 20992,
+   "extra": 0,
+   "differ": 291,
+   "explained": 284,
+   "cm_matched": 28.233315312528703,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rdata",
+   "off": 558592,
+   "size": 375296,
+   "extra": 97,
+   "differ": 7453,
+   "explained": 6426,
+   "cm_matched": 998.9440709303713,
+   "cm_extra": 67.1086530406028
+  },
+  {
+   "name": ".pdata",
+   "off": 933888,
+   "size": 16384,
+   "extra": 15901,
+   "differ": 3,
+   "explained": 0,
+   "cm_matched": 7.570174286051952,
+   "cm_extra": 6406.613214687441
+  },
+  {
+   "name": ".xdata",
+   "off": 950272,
+   "size": 20992,
+   "extra": 5,
+   "differ": 35,
+   "explained": 18,
+   "cm_matched": 45.87665157867468,
+   "cm_extra": 4.086770025547594
+  },
+  {
+   "name": ".idata",
+   "off": 971264,
+   "size": 8192,
+   "extra": 320,
+   "differ": 1185,
+   "explained": 325,
+   "cm_matched": 518.3297734399375,
+   "cm_extra": 210.89906391948898
+  },
+  {
+   "name": ".CRT",
+   "off": 979456,
+   "size": 512,
+   "extra": 0,
+   "differ": 5,
+   "explained": 5,
+   "cm_matched": 0.6587404383190005,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".tls",
+   "off": 979968,
+   "size": 512,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.001408892567269504,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rsrc",
+   "off": 980480,
+   "size": 1536,
+   "extra": 0,
+   "differ": 1,
+   "explained": 1,
+   "cm_matched": 1.0566600188494704,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".reloc",
+   "off": 982016,
+   "size": 3072,
+   "extra": 614,
+   "differ": 68,
+   "explained": 4,
+   "cm_matched": 40.399556134361774,
+   "cm_extra": 269.25009449086065
+  }
+ ],
+ "upgrade-jq-1.7.1-1.8.0-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 14712,
+   "extra": 0,
+   "differ": 138,
+   "explained": 38,
+   "cm_matched": 165.50351761443585,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 14712,
+   "size": 404536,
+   "extra": 76159,
+   "differ": 45781,
+   "explained": 14101,
+   "cm_matched": 17524.531114389694,
+   "cm_extra": 30750.528963697263
+  },
+  {
+   "name": "__TEXT,__stubs",
+   "off": 419248,
+   "size": 1536,
+   "extra": 36,
+   "differ": 214,
+   "explained": 214,
+   "cm_matched": 4.721215493085765,
+   "cm_extra": 16.528779411688447
+  },
+  {
+   "name": "__TEXT,__const",
+   "off": 420784,
+   "size": 318528,
+   "extra": 18748,
+   "differ": 9864,
+   "explained": 2,
+   "cm_matched": 8168.43519586328,
+   "cm_extra": 9847.96320245757
+  },
+  {
+   "name": "__TEXT,__cstring",
+   "off": 739312,
+   "size": 28646,
+   "extra": 710,
+   "differ": 90,
+   "explained": 0,
+   "cm_matched": 108.04294026007119,
+   "cm_extra": 485.70992351323366
+  },
+  {
+   "name": "__TEXT,__ustring",
+   "off": 767958,
+   "size": 28,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.008356169870239682,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 767986,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503487045643851e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__unwind_info",
+   "off": 767988,
+   "size": 2056,
+   "extra": 1789,
+   "differ": 84,
+   "explained": 2,
+   "cm_matched": 72.6240424064672,
+   "cm_extra": 1101.1622476601042
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 770044,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 7.430866389768198e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__got",
+   "off": 770048,
+   "size": 1080,
+   "extra": 0,
+   "differ": 11,
+   "explained": 0,
+   "cm_matched": 19.424463153482066,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__const",
+   "off": 771128,
+   "size": 11896,
+   "extra": 0,
+   "differ": 2909,
+   "explained": 579,
+   "cm_matched": 1057.3983988640794,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 783024,
+   "size": 3408,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.08009449206292629,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 786432,
+   "size": 19128,
+   "extra": 0,
+   "differ": 292,
+   "explained": 23,
+   "cm_matched": 189.90752274594342,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 805560,
+   "size": 13640,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.32494023285107687,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 819200,
+   "size": 22176,
+   "extra": 6717,
+   "differ": 334,
+   "explained": 2,
+   "cm_matched": 409.4290802936084,
+   "cm_extra": 6708.752039797604
+  }
+ ],
+ "upgrade-lazygit-0.40.2-0.44.0-macos-arm64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 4096,
+   "extra": 0,
+   "differ": 187,
+   "explained": 40,
+   "cm_matched": 162.21739132783887,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__text",
+   "off": 4096,
+   "size": 7641348,
+   "extra": 2216825,
+   "differ": 598233,
+   "explained": 236978,
+   "cm_matched": 306169.90190140903,
+   "cm_extra": 843945.5549488843
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 7645444,
+   "size": 28,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.000646899628918618,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__symbol_stub1",
+   "off": 7645472,
+   "size": 1620,
+   "extra": 53,
+   "differ": 581,
+   "explained": 375,
+   "cm_matched": 47.76305746939033,
+   "cm_extra": 38.016496021300554
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 7647092,
+   "size": 12,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.302085679024458e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__TEXT,__rodata",
+   "off": 7647104,
+   "size": 1685441,
+   "extra": 227207,
+   "differ": 272104,
+   "explained": 37,
+   "cm_matched": 210403.37119080982,
+   "cm_extra": 89140.28465858533
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 9332545,
+   "size": 6335,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.4623226794064976,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__rodata",
+   "off": 9338880,
+   "size": 2218656,
+   "extra": 273937,
+   "differ": 420136,
+   "explained": 70663,
+   "cm_matched": 272004.21875218,
+   "cm_extra": 118121.49646337784
+  },
+  {
+   "name": "__DATA_CONST,__typelink",
+   "off": 11557536,
+   "size": 23948,
+   "extra": 22745,
+   "differ": 486,
+   "explained": 0,
+   "cm_matched": 417.94294531003106,
+   "cm_extra": 10053.645945026074
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 11581484,
+   "size": 20,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00028346688486635685,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__itablink",
+   "off": 11581504,
+   "size": 7288,
+   "extra": 579,
+   "differ": 2462,
+   "explained": 44,
+   "cm_matched": 1437.1016375711188,
+   "cm_extra": 233.0952437450178
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 11588792,
+   "size": 8,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.17485520301852375,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA_CONST,__gopclntab",
+   "off": 11588800,
+   "size": 5905928,
+   "extra": 2148959,
+   "differ": 554656,
+   "explained": 3309,
+   "cm_matched": 373771.96244963096,
+   "cm_extra": 936878.7290257264
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 17494728,
+   "size": 3384,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.16460095951333642,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__go_buildinfo",
+   "off": 17498112,
+   "size": 3456,
+   "extra": 168,
+   "differ": 145,
+   "explained": 0,
+   "cm_matched": 59.563988644396886,
+   "cm_extra": 72.58979396894574
+  },
+  {
+   "name": "__DATA,__nl_symbol_ptr",
+   "off": 17501568,
+   "size": 1088,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00312051665969193,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__DATA,__noptrdata",
+   "off": 17502656,
+   "size": 572448,
+   "extra": 23968,
+   "differ": 14409,
+   "explained": 33,
+   "cm_matched": 7161.219038445037,
+   "cm_extra": 13677.986981804483
+  },
+  {
+   "name": "__DATA,__data",
+   "off": 18075104,
+   "size": 108304,
+   "extra": 210,
+   "differ": 25620,
+   "explained": 2331,
+   "cm_matched": 14386.746476934291,
+   "cm_extra": 96.47245869785547
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 18183408,
+   "size": 2832,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00788648403249681,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "__LINKEDIT",
+   "off": 18186240,
+   "size": 608002,
+   "extra": 522165,
+   "differ": 13394,
+   "explained": 1,
+   "cm_matched": 9576.885812933324,
+   "cm_extra": 273716.9918161591
+  }
+ ],
+ "upgrade-lazygit-0.43.1-0.44.0-linux-amd64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 3996,
+   "extra": 0,
+   "differ": 98,
+   "explained": 58,
+   "cm_matched": 65.3720704131415,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".note.go.buildid",
+   "off": 3996,
+   "size": 100,
+   "extra": 0,
+   "differ": 78,
+   "explained": 0,
+   "cm_matched": 107.63226264423793,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 4096,
+   "size": 8214483,
+   "extra": 37663,
+   "differ": 405854,
+   "explained": 301739,
+   "cm_matched": 35868.32662000825,
+   "cm_extra": 20592.432969679285
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 8218579,
+   "size": 2093,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00852226989081828,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rodata",
+   "off": 8220672,
+   "size": 3895920,
+   "extra": 72491,
+   "differ": 389737,
+   "explained": 181922,
+   "cm_matched": 101625.67237795921,
+   "cm_extra": 23952.274162993504
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 12116592,
+   "size": 16,
+   "extra": 0,
+   "differ": 4,
+   "explained": 0,
+   "cm_matched": 7.114925302856136,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".typelink",
+   "off": 12116608,
+   "size": 23788,
+   "extra": 22564,
+   "differ": 532,
+   "explained": 0,
+   "cm_matched": 447.67413103565923,
+   "cm_extra": 9620.566119790317
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 12140396,
+   "size": 20,
+   "extra": 0,
+   "differ": 6,
+   "explained": 0,
+   "cm_matched": 6.9340577374678105,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".itablink",
+   "off": 12140416,
+   "size": 7216,
+   "extra": 0,
+   "differ": 2482,
+   "explained": 3,
+   "cm_matched": 1596.6544695663906,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 12147632,
+   "size": 16,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.31072107632644475,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".gopclntab",
+   "off": 12147648,
+   "size": 6017576,
+   "extra": 120647,
+   "differ": 495295,
+   "explained": 34066,
+   "cm_matched": 132031.9378337276,
+   "cm_extra": 51819.521854887484
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 18165224,
+   "size": 536,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.015910934540443122,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".go.buildinfo",
+   "off": 18165760,
+   "size": 3472,
+   "extra": 23,
+   "differ": 100,
+   "explained": 0,
+   "cm_matched": 35.036640137434006,
+   "cm_extra": 9.967069208621979
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 18169232,
+   "size": 16,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.503511056303978e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".noptrdata",
+   "off": 18169248,
+   "size": 572416,
+   "extra": 0,
+   "differ": 1051,
+   "explained": 943,
+   "cm_matched": 199.5777416038327,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data",
+   "off": 18741664,
+   "size": 110832,
+   "extra": 0,
+   "differ": 15692,
+   "explained": 11649,
+   "cm_matched": 997.8418466426665,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 18852496,
+   "size": 1392,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.004595430218614638,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".shstrtab",
+   "off": 18853888,
+   "size": 152,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0969096923363395,
+   "cm_extra": 0.0
+  }
+ ],
+ "upgrade-ripgrep-13.0.0-14.1.0-windows-amd64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 1024,
+   "extra": 120,
+   "differ": 94,
+   "explained": 7,
+   "cm_matched": 123.02648843912561,
+   "cm_extra": 51.65020303463098
+  },
+  {
+   "name": ".text",
+   "off": 1024,
+   "size": 3441152,
+   "extra": 2027786,
+   "differ": 85363,
+   "explained": 13430,
+   "cm_matched": 66983.16152060288,
+   "cm_extra": 870444.6177996807
+  },
+  {
+   "name": ".rdata",
+   "off": 3442176,
+   "size": 1713664,
+   "extra": 399604,
+   "differ": 127423,
+   "explained": 27464,
+   "cm_matched": 61162.483268210955,
+   "cm_extra": 120523.416182708
+  },
+  {
+   "name": ".data",
+   "off": 5155840,
+   "size": 4096,
+   "extra": 50,
+   "differ": 314,
+   "explained": 138,
+   "cm_matched": 144.81564157553657,
+   "cm_extra": 23.1254967963323
+  },
+  {
+   "name": ".pdata",
+   "off": 5159936,
+   "size": 124416,
+   "extra": 124264,
+   "differ": 36,
+   "explained": 0,
+   "cm_matched": 27.854952533889445,
+   "cm_extra": 59060.61949062231
+  },
+  {
+   "name": "_RDATA",
+   "off": 5284352,
+   "size": 512,
+   "extra": 488,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00958511550561525,
+   "cm_extra": 204.7325102163013
+  },
+  {
+   "name": ".rsrc",
+   "off": 5284864,
+   "size": 2048,
+   "extra": 1191,
+   "differ": 16,
+   "explained": 0,
+   "cm_matched": 28.31198038617731,
+   "cm_extra": 843.3067586049438
+  },
+  {
+   "name": ".reloc",
+   "off": 5286912,
+   "size": 45568,
+   "extra": 10641,
+   "differ": 746,
+   "explained": 0,
+   "cm_matched": 557.1140724215657,
+   "cm_extra": 5277.931150525808
+  }
+ ],
+ "upgrade-ripgrep-14.0.3-14.1.0-linux-amd64": [
+  {
+   "name": "(gap/headers)",
+   "off": 0,
+   "size": 456,
+   "extra": 0,
+   "differ": 82,
+   "explained": 38,
+   "cm_matched": 69.22458396215166,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".hash",
+   "off": 456,
+   "size": 12,
+   "extra": 0,
+   "differ": 3,
+   "explained": 0,
+   "cm_matched": 6.077187582401166,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 468,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 3.577455390768591e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".gnu.hash",
+   "off": 472,
+   "size": 28,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.014473603188889683,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 500,
+   "size": 4,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.2014367459632922e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".dynsym",
+   "off": 504,
+   "size": 24,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00011007103967131115,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".dynstr",
+   "off": 528,
+   "size": 1,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 8.255356078734621e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 529,
+   "size": 7,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 2.2013990019331686e-05,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rela.dyn",
+   "off": 536,
+   "size": 551136,
+   "extra": 0,
+   "differ": 183892,
+   "explained": 5070,
+   "cm_matched": 82128.47304376142,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init",
+   "off": 551672,
+   "size": 3,
+   "extra": 3,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.0,
+   "cm_extra": 2.9988779425621033
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 551675,
+   "size": 5,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.061231081941514276,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".text",
+   "off": 551680,
+   "size": 4127730,
+   "extra": 1024623,
+   "differ": 243622,
+   "explained": 46257,
+   "cm_matched": 174080.39076835656,
+   "cm_extra": 451619.0567456
+  },
+  {
+   "name": ".fini",
+   "off": 4679410,
+   "size": 3,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.012632185855181888,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 4679413,
+   "size": 11,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.00040470348903909326,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".rodata",
+   "off": 4679424,
+   "size": 933428,
+   "extra": 46721,
+   "differ": 8721,
+   "explained": 4029,
+   "cm_matched": 1574.261629095039,
+   "cm_extra": 12549.582172504452
+  },
+  {
+   "name": ".debug_gdb_scripts",
+   "off": 5612852,
+   "size": 34,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.7467947787663434,
+   "cm_extra": 0.0
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 5612886,
+   "size": 2,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 5.50347613170743e-06,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".eh_frame_hdr",
+   "off": 5612888,
+   "size": 65340,
+   "extra": 65327,
+   "differ": 3,
+   "explained": 2,
+   "cm_matched": 7.378623617027188,
+   "cm_extra": 26276.942188468704
+  },
+  {
+   "name": ".gcc_except_table",
+   "off": 5678228,
+   "size": 109252,
+   "extra": 51191,
+   "differ": 12981,
+   "explained": 10,
+   "cm_matched": 10071.135893071245,
+   "cm_extra": 35775.83805986156
+  },
+  {
+   "name": "(gap/headers)",
+   "off": 5787480,
+   "size": 2992,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.012947261275257915,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".eh_frame",
+   "off": 5790472,
+   "size": 404152,
+   "extra": 67686,
+   "differ": 38505,
+   "explained": 5025,
+   "cm_matched": 29651.355014961737,
+   "cm_extra": 25452.837443030672
+  },
+  {
+   "name": ".tdata",
+   "off": 6194624,
+   "size": 2632,
+   "extra": 0,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 1.1420313442358747,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".init_array",
+   "off": 6197256,
+   "size": 16,
+   "extra": 0,
+   "differ": 5,
+   "explained": 3,
+   "cm_matched": 8.19206548423972,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".fini_array",
+   "off": 6197272,
+   "size": 8,
+   "extra": 0,
+   "differ": 3,
+   "explained": 0,
+   "cm_matched": 3.388272635114845,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data.rel.ro",
+   "off": 6197280,
+   "size": 381608,
+   "extra": 1,
+   "differ": 116232,
+   "explained": 12687,
+   "cm_matched": 56934.45931211434,
+   "cm_extra": 1.5642791986465454
+  },
+  {
+   "name": ".dynamic",
+   "off": 6578888,
+   "size": 400,
+   "extra": 0,
+   "differ": 92,
+   "explained": 0,
+   "cm_matched": 97.24732290371321,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".got",
+   "off": 6579288,
+   "size": 7080,
+   "extra": 0,
+   "differ": 2608,
+   "explained": 3,
+   "cm_matched": 2315.771990209236,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".data",
+   "off": 6586368,
+   "size": 1728,
+   "extra": 0,
+   "differ": 296,
+   "explained": 208,
+   "cm_matched": 132.29260645946488,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".comment",
+   "off": 6588096,
+   "size": 86,
+   "extra": 0,
+   "differ": 15,
+   "explained": 0,
+   "cm_matched": 11.321090556622948,
+   "cm_extra": 0.0
+  },
+  {
+   "name": ".shstrtab",
+   "off": 6588182,
+   "size": 218,
+   "extra": 41,
+   "differ": 0,
+   "explained": 0,
+   "cm_matched": 0.3143646065145731,
+   "cm_extra": 43.443237751722336
+  },
+  {
+   "name": "(tail)",
+   "off": 6588400,
+   "size": 1600,
+   "extra": 0,
+   "differ": 245,
+   "explained": 27,
+   "cm_matched": 222.09503355977358,
+   "cm_extra": 0.0
+  }
+ ]
+}

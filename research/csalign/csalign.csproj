@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Research-only: compiles a SNAPSHOT COPY (src/) of the project's Common + Alignment + Matching
+       sources so that the thesis's DP alignment can be used as input to the research prototypes.
+       Never builds or edits anything outside research/. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <IsPackable>false</IsPackable>
+    <RootNamespace>Research.CsAlign</RootNamespace>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>false</ConcurrentGarbageCollection>
+  </PropertyGroup>
+</Project>
