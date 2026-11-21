@@ -1,4 +1,4 @@
-# bsdiff6
+# bsdiff++
 
 An independent C# implementation of the binary delta algorithm in Chapter 2 of Colin Percival's doctoral thesis, ["Matching with Mismatches and Assorted Applications"](https://www.daemonology.net/papers/thesis.pdf). He called the algorithm "bsdiff 6" and never released an implementation; he is also the author of [bsdiff](https://www.daemonology.net/bsdiff/) 4.x. Given an old and a new file it produces a patch that rebuilds the new file from the old one.
 
